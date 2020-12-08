@@ -1,0 +1,1087 @@
+{
+    "app-name": "Việt Nam hiện đại",
+    "login": "đăng nhập",
+    "register": "đã đăng ký",
+    "logout": "Đăng xuất",
+    "userCenter": "Trung tâm cá nhân",
+    "tipsTitle":"Chú ý",
+    "ok": "Lưu",
+    "cancel": "Hủy",
+    "goSet":"Tiến hành cài đặt",
+    "notSetPwd":"Quý khách chưa cài đặt mật khẩu rút tiền",
+    "back":"Trở về ",
+    "createTime":"Thời gian liên kết",
+    "dialogs": {
+        "payPassword": {
+            "title": "请先验证资金密码",
+            "label": "Mật khẩu rút tiền",
+            "placeholder": "Xin vui lòng nhập mật khẩu rút tiền",
+            "rule": [
+                "Xin vui lòng nhập mật khẩu rút tiền",
+                "Mật khẩu rút tiền sai"
+            ]
+        }
+    },
+    "pages": {
+        "home": "Trang chủ",
+        "jisucai": "Xổ số siêu tốc",
+        "north": "Miền Bắc",
+        "middle": "Miền Trung",
+        "south": "Miền Nam",
+        "sports": "Thể thao",
+        "live": "Casino trực tuyến/ Live casino",
+        "slots": "Trò chơi điện tử/ Game điện tử",
+        "esports": "E SPORT",
+        "userCenter": {
+            "deposit": "tiền gửi",
+            "transfer": "chuyển khoản",
+            "withdrawal": "Rút tiền",
+            "info": "thông tin cá nhân",
+            "wdMethod": "Tài khoản ngân hàng",
+            "transactions": "Ghi lại giao dịch",
+            "gameRecords": "Kỷ lục trò chơi",
+            "messages": "Nhật ký tin nhắn"
+        }
+    },
+    "personCenter": {
+        "deposit": {
+            "recharge":"NẠP TIỀN",
+            "selectRechargefn":"Chọn phương thức thanh toán",
+            "more":"Mở ra",
+            "bank":"Thẻ ngân hàng",
+            "cash":"Thẻ Cash",
+            "usdt":"USDT",
+            "momopay":"MOMO PAY",
+            "selectBank":"Chọn ngân hàng",
+            "pselectBank":"Vui lòng chọn ngân hàng",
+            "thirdParty":"第三方",
+            "tip":"Yêu cầu nạp tiền được gửi đi thành công,  xin vui lòng hoàn tất thanh toán tại trang sau đây trong 30 phút",
+            "rechargefn":"Phương thức nạp tiền",
+            "rechargeCash":"Số tiền nạp",
+            "tip2":"Xin quý khách lưu ý :Sau khi hoàn thành nạp tiền vui lòng chờ trong vài phút, quý khách có thể kiểm tra trạng  thái tiền nạp tiền mục “Lịch sử nạp tiền”",
+            "numpay":"Thanh toán điện tử",
+            "payscuess":"Quý khách vui lòng thanh toán bằng USDT vào tài khoản ví điện tử dưới đây trong vòng 30 phút ",
+            "protocol":"Thỏa thuận ví tiền:",
+            "copy":"Sao chép",
+            "address":"Địa chỉ chuyển:",
+            "refresh":"Làm mới ",
+            "needtransfer":"Số tiền:",
+            "tips":"Xin quý khách lưu ý",
+            "tip3":"Sau khi hoàn thành nạp tiền vui lòng chờ trong vài phút, quý khách có thể kiểm tra trạng thái tiền nạp tiền mục “Lịch sử nạp tiền”",
+            "cashrecharge":"Thẻ Cash",
+            "tip4":"Yêu cầu nạp tiền được gửi đi thành công,  xin vui lòng hoàn tất thanh toán tại trang sau đây trong 30 phút",
+            "onlinebank":"Chuyển khoản ngân hàng",
+            "onlinetip":"Quý khách vui lòng nạp tiền vào đúng số tài khoản bên dưới, điền đúng nội dung và hoàn tất thanh toán trong vòng 15 phút",
+            "transferCash":"Số tiền chuyển khoản",
+            "receivingBank":"Tên ngân hang",
+            "receivingnum":"Số tài khoản",
+            "receivingname":"Tên chủ tài khoản",
+            "transferRemarks":"Nội dung",
+            "websitetotransfer":"Vào trang web để chuyển",
+            "transfertip1":"Sau khi hoàn thành nạp tiền vui lòng chờ trong vài phút, quý khách có thể kiểm tra trạng thái tiền nạp tiền mục “Lịch sử nạp tiền”",
+            "inputCash":"Vui lòng nhập số tiền",
+            "fastRecharge":"Nạp tiền ngay",
+            "nowcard":"Thẻ cào điện thoại",
+            "clicksave":"Vui lòng nhấp chọn để chuyển đến trang nạp tiền",
+            "huilv":"Tỷ giá tham khảo hiện tại",
+            "pay":"预计支付",
+            "precautions":"Những vấn đề cần lưu ý",
+            "low1":"Mỗi lần nạp tối thiểu",
+            "low2":"tối đa",
+            "low3":"kênh này tính phí",
+            "low4":"học phí",
+            "kefu":"Nếu sau khi nạp, tiền không vào tài khoản, xin vui lòng liên hệ với bộ phận chăm sóc khách hàng để được hỗ trợ.",
+            "ckefu":"Liên hệ với bộ phận chăm sóc khách hàng"
+        },
+        "transfer": {
+            "lottery":"Tài khoản xổ số",
+            "name":"Chuyển quỹ",
+            "game":"Tài khoản trò chơi",
+            "notransfer":"Không được hỗ trợ chuyển khoản lẫn nhau giữa các ví",
+            "fastTransfer":"Gửi/ Chuyển khoản ngay"
+
+        },
+        "withdrawal": {
+            "name":"Rút lui",
+            "withdrawfn":"提款方式",
+            "withbag":"提款钱包",
+            "xieyi":"Thỏa thuận",
+            "withcash":"Số tiền rút",
+            "withltime":"Hạn mức rút tiền",
+            "hight":"tối đa",
+            "low":"Tối thiểu",
+            "fast":"Rút tiền ngay ",
+            "bank":"提款银行",
+            "nobanktip":"Quý khách chưa liên kết thẻ ngân hàng, xin vui lòng liên kết thẻ ngân hàng",
+            "go":"Tiến hành cài đặt",
+            "hl":"Tỷ giá tham khảo hiện tại",
+            "target":"Cuối cùng về tài khoản",
+            "tipcash":"Phí giao dịch"
+        },
+        "info": {
+            "title": {
+                "profile": "Thông tin cơ bản",
+                "security": "Bảo mật tài khoản",
+                "nickname": "Chủ tài khoản",
+                "password": "Mật Khẩu",
+                "walletcode": "Mật khẩu rút tiền",
+                "pwdHint": "Câu hỏi bảo mật",
+                "phone": "Số điện thoại",
+                "email": "E-mail"
+            },
+            "label": {
+                "username": "Tên đăng nhập",
+                "nickname":"Chủ tài khoản",
+                "realname": "Họ tên",
+                "last_login": "Lần đăng nhập cuối cùng",
+                "register_time": "Thời gian đăng ký",
+                "password": "Mật Khẩu",
+                "walletcode": "Mật khẩu rút tiền",
+                "pwdhint": "Câu hỏi bảo mật",
+                "phone": "Số điện thoại",
+                "email": "E-mail",
+                "google_verify": "谷歌身份验证",
+                "curPwd": "Mật khẩu hiện tại",
+                "newPwd": "Mật khẩu mới",
+                "checkNewPwd": "Xác nhận mật khẩu mới",
+                "curWalletcode": "Mật khẩu rút tiền hiện tại",
+                "newWalletcode": "Mật khẩu rút tiền mới",
+                "checkNewWalletcode": "Xác nhận mật khẩu rút tiền mới",
+                "pwdHint": "Chọn câu hỏi bảo mật",
+                "pwdHintAns": "Đáp án bảo mật",
+                "verifycode": "Mã xác nhận"
+            },
+            "placeholder": {
+                "no_bind": "Chưa đăng ký",
+                "no_set": "Chưa liên kết",
+                "no_verfied": "Chưa xác minh",
+                "nickname": "Vui lòng nhập biệt danh",
+                "curPwd": "Xin vui lòng nhập mật khẩu hiện tại",
+                "newPwd": "Xin vui lòng nhập mật khẩu mới",
+                "checkNewPwd": "Xin vui lòng xác nhập lại mật khẩu mới",
+                "curWalletcode": "Vui lòng nhập mật khẩu rút tiền hiện tại",
+                "newWalletcode": "Vui lòng nhập mật khẩu rút tiền mới",
+                "checkNewWalletcode": "Nhập lại mật khẩu rút tiền mới",
+                "pwdHint": "Vui lòng chọn câu hỏi bảo mật",
+                "pwdHintAns": "Vui lòng nhập đáp án",
+                "phone": "Vui lòng nhập số điện thoại",
+                "verifycode": "Xin nhập mã xác nhận",
+                "email": "Vui lòng nhập email"
+            },
+            "btnText": {
+                "update": "sửa đổi",
+                "bind": "Cài đặt ngay",
+                "set": "Thiết lập ngay",
+                "verify": "Xác minh",
+                "verify_now": "Xác minh ngay",
+                "getVerifycode": "Nhận mã xác minh"
+            },
+            "errMsg": {
+                "no_nickname": "Vui lòng nhập biệt danh",
+                "no_phone": "Vui lòng nhập số điện thoại",
+                "no_email": "Vui lòng nhập email",
+                "no_verifyCode": "Xin nhập mã xác nhận",
+                "no_pwdHint": "Vui lòng chọn câu hỏi bảo mật",
+                "no_pwdAns": "Đáp án câu hỏi bảo mật không thể để trống",
+                "no_curPwd": "Xin vui lòng nhập mật khẩu hiện tại",
+                "no_newPwd": "Xin vui lòng nhập mật khẩu mới",
+                "no_checkNewPwd": "Xin vui lòng xác nhập lại mật khẩu mới",
+                "no_curWalletcode": "Vui lòng nhập mật khẩu rút tiền hiện tại",
+                "no_newWalletcode": "Vui lòng nhập mật khẩu rút tiền mới",
+                "no_checkNewWalletcode": "Nhập lại mật khẩu rút tiền mới",
+                "no_match_email": "Địa chỉ email không hợp lệ",
+                "no_match_phone": "Số điện thoại không đúng ",
+                "no_match_pwd": "Mật khẩu mới không trùng khớp",
+                "no_match_newWalletcode": "Mật khẩu rút tiền mới không đồng nhất",
+                "no_match_pwdAns": "Đáp án câu hỏi bảo mật phải gồm {{min}}-{{max}} ký tự",
+                "no_match_walletcode": "Mật khẩu rút tiền gồm {{min}}-{{max}} ký tự"
+            }
+        },
+        "wdMethod": {
+            "bankCard": "Thẻ ngân hàng",
+            "numWallet": "Ví tiền kỹ thuật số",
+            "addBank": "Chưa liên kết thẻ ngân hàng",
+            "addUsdt": "Thêm tiền điện tử",
+            "name": "Tên người nhận",
+            "bankName": "Ngân hàng",
+            "cardNum": "Số tài khoản",
+            "pwd": "Mật khẩu",
+            "inputCard":"Vui lòng nhập số tài khoản",
+            "inputPwd":"Vui lòng nhập mật khẩu rút tiền",
+            "inputName":"Vui lòng nhập Tên người nhận",
+            "tipName":"Để tiền nhanh chóng vào tài khoản, xin quý khách điền tên đúng với tên trên thẻ ngân hàng",
+            "tipCard":"Vui lòng xác nhận đã nhập chính xác số tài khoản",
+            "usdtPact":"Thỏa thuận ví tiền",
+            "usdtName":"Tên ví tiền",
+            "usdtAdress":"Địa chỉ ví tiền",
+            "inputUsdtName":"Vui lòng nhập tên ví tiền",
+            "inputUsdtAdress":"Vui lòng nhập địa chỉ ví tiền",
+            "tipUsdtAd":"Hãy đảm bảo rằng địa chỉ ví của bạn được nhập chính xác",
+            "tipS":"Tên người nhận viết hoa, không thể vượt quá 30 ký tự",
+            "tipC":"Vui lòng nhập chính xác số tài khoản",
+            "tipP":"Mật khẩu rút tiền sai",
+            "bindCardTime": "Thời gian cài đặt/liên kết",
+            "noBankCard": "Chưa liên kết thẻ ngân hàng",
+            "noDigitalCard": "Chưa liên kết ví điện tử",
+            "tipB":"Tên ví không được quá 20 ký tự"
+        },
+        "transactions": {
+            "title": {
+                "depositRecord": "Lịch sử nạp tiền",
+                "transferRecord": "Lịch sử chuyển khoản",
+                "withdrawlRecord": "Lịch sử rút tiền"
+            },
+            "label": {
+                "date": "Thời gian",
+                "status": "Trạng thái"
+            },
+            "tableColumn": {
+                "date": "Thời gian",
+                "status": "Trạng thái",
+                "order": "Số đơn",
+                "depositType": "Phương thức nạp tiền",
+                "amount": "Số tiền",
+                "transfer_to": "Chuyển quỹ",
+                "transfer_from": "Chuyển quỹ",
+                "withdrawlCard": "Tài khoản rút tiền",
+                "note": "Ghi chú"
+            },
+            "statusText": {
+                "all": "Tất cả",
+                "success": "Thành công",
+                "fail": "Thất bại",
+                "pending": "Đang chờ xử lý"
+            },
+            "btnText": {
+                "search_now": "Tìm kiếm ngay"
+            },
+            "tip": {
+                "title": "Xin quý khách lưu ý/Lời khuyên",
+                "deposit": "Lịch sử nạp tiền chỉ lưu dữ liệu trong 1 tuần",
+                "transfer": "Lịch sử chuyển tiền chỉ lưu số liệu trong 1 tuần",
+                "withdrawl": "Lịch sử rút tiền chỉ lưu số liệu trong 1 tuần"
+            }
+        },
+        "gameRecords": {
+
+        },
+        "messages": [
+            "Thông báo",
+            "Hộp thư hệ thống",
+            "Đã đọc toàn bộ"
+        ]
+    },
+    "lottery": {
+        "baozu": "Bao Lô",
+        "chuanguan": "Lô Xiên",
+        "tou": "cái đầu",
+        "wei": "đuôi",
+        "touwei": "Đầu và đuôi",
+        "yuxiaxie": "Bầu Cua",
+        "yidengjiang": "Giải Nhất",
+        "baoerxing": "Lô 2 Số ",
+        "baosanxing": "Lô 3 Số ",
+        "baosixing": "Lô 4 Số ",
+        "chuaner": "Xiên 2",
+        "chuansan": "Xiên 3",
+        "erma": "Trúng 2 số",
+        "sanma": "Trúng 3 số",
+        "sima": "Trúng 4 số",
+        "danshi": "Nhập Số",
+        "fushi": "Chọn số nhanh",
+        "description_baozu_baoerxing": "Đánh 2 chữ số cuối trong các giải",
+        "description_baozu_baosanxing": "Đánh 3 chữ số cuối trong các giải có 3 chữ số trở lên",
+        "description_baozu_baosixing": "Đánh 4 chữ số cuối trong các giải có 4 chữ số trở lên",
+        "description_chuanguan_chuaner": "Xiên 2 của 2 chữ số cuối trong các giải",
+        "description_chuanguan_chuansan": "Xiên 3 của 2 chữ số cuối trong các giải",
+        "description_tou_erma": "Đánh 2 chữ số cuối trong 4 giải của giải 7",
+        "description_wei_erma": "Đánh 2 chữ số cuối trong giải đặc biệt",
+        "description_wei_sanma": "Đánh 3 chữ số cuối trong giải đặc biệt",
+        "description_wei_sima": "Đánh 4 chữ số cuối trong giải đặc biệt",
+        "description_touwei_erma": "Đánh 2 chữ số cuối trong giải đặc biệt hoặc là Đánh 2 chữ số cuối trong giải đặc biệt",
+        "description_yuxiaxie_yuxiaxie": "Đặt cược cho sự kết hợp đại diện của chữ số cuối cùng của kết quả rút thăm Giải thưởng Lớn. Nếu kết quả xổ số nằm trong tổ hợp cá cược, bạn sẽ thắng. Cá = 1,2,3 Tôm = 4,5,6 Cua = 7,8,9; Nếu chữ số đầu tiên của kết quả quay thưởng đặc biệt là 0 thì không có giải thưởng nào trúng thưởng.",
+        "description_yidengjiang_erma": "Đánh 2 chữ số của giải 1",
+        "peilv": ["Tỉ lệ cược", "ăn"],
+        "qianwei": "Nghìn",
+        "baiwei": "Trăm",
+        "shiwei": "Chục",
+        "gewei": "Đơn vị",
+        "quan": "Tất cả",
+        "da": "Tài",
+        "xiao": "Xỉu",
+        "ji": "Lẻ",
+        "ou": "Chẵn",
+        "qing": "Xóa",
+        "beishu": "Cấp số nhân",
+        "touzhumoshi": "Chiết khấu",
+        "placeholder_baozu_baoerxing_danshi": "Giữa mỗi cược cần phân cách bởi dấu chấm phẩy \";\" ，Ví dụ:10;23",
+        "placeholder_baozu_baosanxing_danshi": "Giữa mỗi cược cần phân cách bởi dấu chấm phẩy \";\" ，Ví dụ:110;203",
+        "placeholder_baozu_baosixing_danshi": "Giữa mỗi cược cần phân cách bởi dấu chấm phẩy \";\" ，Ví dụ:1910;5203",
+        "placeholder_chuanguan_chuaner_danshi": "Sử dụng & để kết nối giữa các số，Giữa mỗi xiên cần phân cách bởi dấu chấm phẩy \" ; \" ，Ví dụ:19&10;52&03",
+        "placeholder_chuanguan_chuansan_danshi": "Sử dụng & để kết nối giữa các số，Giữa mỗi xiên cần phân cách bởi dấu chấm phẩy \" ; \" ，Ví dụ:12&18&20;16&25&33",
+        "placeholder_tou_erma_danshi": "Giữa mỗi cược cần phân cách bởi dấu chấm phẩy \";\" ，Ví dụ:10;23",
+        "placeholder_wei_erma_danshi": "Giữa mỗi cược cần phân cách bởi dấu chấm phẩy \";\" ，Ví dụ:10;23",
+        "placeholder_wei_sanma_danshi": "Giữa mỗi cược cần phân cách bởi dấu chấm phẩy \";\" ，Ví dụ:110;203",
+        "placeholder_wei_sima_danshi": "Giữa mỗi cược cần phân cách bởi dấu chấm phẩy \";\" ，Ví dụ:1910;5203",
+        "placeholder_touwei_erma_danshi": "Giữa mỗi cược cần phân cách bởi dấu chấm phẩy \";\" ，Ví dụ:10;23",
+        "placeholder_yidengjiang_erma_danshi": "Giữa mỗi cược cần phân cách bởi dấu chấm phẩy \";\" ，Ví dụ:10;23",
+        "haoma_jine": "Đã chọn: {{n1}} số，Tiền đánh: {{n2}} VNĐ",
+        "yixuanze": "Đã chọn",
+        "gehaoma": "số",
+        "xiazhujine": "Tiền đánh",
+        "kuaisutouzhu": "Cược nhanh",
+        "tianjiaxuanhao": "Thêm cược",
+        "zongtouzhue": "Tổng cược",
+        "lijitouzhu": "Đặt Cược",
+        "zhuihao": "Nuôi",
+        "xuanhaolan": "NỘI DUNG CƯỢC",
+        "qingkongxuanhaolan": "Xóa Tất Cả",
+        "xuhao": "Stt",
+        "wanfamingcheng": "Tên cược",
+        "touzhuzhushu": "Số cược",
+        "zongtouzhushu": "Tổng cược",
+        "zushu": "Cấp số nhân",
+        "touzhujine": "Tiền cược",
+        "danzhujiangjin": "Tiền thắng / 1 lần",
+        "touzhujilu": "LỊCH SỬ CƯỢC",
+        "qihao": "Lượt xổ",
+        "kaijianghaoma": "Kết Quả Xổ Số",
+        "touzhushijian": "Thời gian cược",
+        "zhuangtai": "Trạng thái",
+        "qishibeishu": "Cấp số nhân ban đầu",
+        "zhuihaoqishu": "Tham dự tần số",
+        "xuanze": "Chọn",
+        "qishu": "Lượt nuôi số",
+        "kaijiangshijian": "Thời gian mở thưởng",
+        "zhuihaoqishuhejine": "Tổng {{n1}} lượt, Tổng đặt cược {{n2}} VNĐ",
+        "zhongjiangjiting": "Ngừng nuôi sau khi trúng",
+        "shengchengzhuihaojihua": "Tạo kế hoạch nuôi",
+        "touzhuneirong": "Số cược",
+        "tedengjiang": "Giải ĐB",
+        "erdengjiang": "Giải nhì",
+        "sandengjiang": "Giải ba",
+        "sidengjiang": "Giải tư",
+        "wudengjiang": "Giải năm",
+        "liudengjiang": "Giải sáu",
+        "qidengjiang": "Giải bảy",
+        "badengjiang": "Giải tám"
+    },
+
+    "homepage": {
+        "game": "trò chơi"
+    },
+    "live": {
+        "aglive": "Sòng bài online được xây dựng theo những thông số kỹ thuật cao, giúp người chơi trải nhiệm tốt nhất như đang đánh trực tiếp với dealer.",
+        "sexylive": "Các nữ thần gợi cảm đang chờ bạn, thử sức vui đùa cùng các cô gái sẽ mang lại cho người chơi những trải nghiệm đầy năng lượng và thú vị chưa từng có.",
+        "ebetlive": "Game mới Blockchain Baccarat với công nghệ Casino online hiện đại. EBET kết nối người chơi, tạo cảm giác như đang chơi trực tiếp. ",
+        "cq9live": "Thiết kế game hướng đến chủ đề văn hóa Phương Đông, nhiều loại đặc tính tiền thưởng, tỉ lệ thắng cao và hỗ trợ người chơi trên nhiều nền tảng khác nhau.",
+        "startgame": "Bắt đầu"
+    },
+    "sport": {
+        "sbobetsport": "Nhiều loại cá cược thể thao đa dạng, tỷ lệ kèo hấp dẫn, xử lí cược nhanh, giao diện hỗ trợ tốt nhất giúp người chơi có thể dễ dàng trải nghiệm",
+        "sabasport": "Nền tảng cá cược thể thao hàng đầu Châu Á. SABA (Sport) có thể nhận 20.000 sự kiện mỗi tháng trong một mùa. Đội ngũ chuyên nghiệp, xử lý nhanh tỉ lệ cược hấp dẫn.",
+        "imsport": "Được phát triển trên nền tảng game online lớn nhất Đông Nam Á. Với hơn 20 năm hoạt động, uy tín, ổn định, bảo mật, đảm bảo sẽ đem đến cho khách hàng sự trải nhiệm tốt nhất.",
+        "startgame": "Bắt đầu"
+    },
+    "esport": {
+        "sabasports": "Dựa trên nền tảng kỹ thuật cao, đầy đủ các kèo cược nhất từ các trận thi đấu thể thao điện tử lớn trên toàn thế giới, Saba (E-sport) sẽ đem đến những trải nghiệm phong phú nhất cho người chơi. ",
+        "imsports": "Mang đến cho người chơi một thế giới đầy màu sắc của thể thao điện tử, bao gồm hầu hết tất cả sự kiện lớn ở bộ môn yêu thích của bạn. IM (E-Sport) phát Live Streaming chất lượng HD, mang đến cho người chơi trải nghiệm cực đã.",
+        "startgame": "Bắt đầu"
+    },
+    "slot": {
+        "nav": {
+            "all": "Toàn bộ trò chơi",
+            "ptdianzi": "Điện tử PT",
+            "swdianzi": "Điện tử SW",
+            "cq9dianzi": "Điện tử CQ9",
+            "ppdianzi": "Điện tử PP",
+            "buyudianzi": "Bắn cá GG",
+            "gpi":  "Trò chơi GPI"
+        },
+        "menu": {
+            "all": "Tất cả",
+            "tuijian": "giới thiệu",
+            "shoucang": "Yêu thích"
+        },
+        "placeholder": "Vui lòng nhập tên trò chơi",
+        "modal": {
+            "title": "tìm kêt quả",
+            "content": "Xin lỗi, không tìm thấy kết quả nào.<br />Hãy thử các trò chơi có liên quan mà chúng tôi đề xuất cho bạn!"
+        }
+    },
+    "helper": {
+        "title": "Câu Hỏi Thường Gặp",
+        "nav": {
+            "question": {
+                "title": "Câu hỏi thường gặp",
+                "content": {
+                    "Account": "Các vấn đề về tài khoản",
+                    "TradeQuestion": "Các vấn đề về nạp-rút tiền",
+                    "LotteryQuestion": "Các vấn đề về xổ số",
+                    "LotteryRule": "Luật chơi xổ sổ"
+                }
+            },
+            "aboutus": {
+                "title": "Về chúng tôi",
+                "content": {
+                    "Userment": "Thỏa thuận của người dùng",
+                    "GameRespon": "Chơi bài có trách nhiệm",
+                    "Privacy": "Chính sách bảo mật",
+                    "Concatus": "Liên hệ chúng tôi"
+                }
+            }
+        },
+        "content": {
+            "Account":  "Thành Viên Mới Đăng Ký<br /><br />2.1.1<br />Thành viên cần tạo tài khoản tiền thật và gửi tiền trước khi tham gia chơi tiền thật. Vui long nhấp chọn để tạo tài khoản tiền thật.<br /><br />2.1.2<br />Thành viên cần cung cấp đầy đủ họ tên trong quá trình tạo tài khoản và cần trùng tên chính xác như trong Hộ Chiếu hoặc CMND. Vui lòng tham khảo 2.2 và 3.<br /><br />2.1.3<br />Thành viên vui lòng lựa chọn tiền tệ ưa thích trước khi tạo tài khoản. Thành viên không thể tiến hành thay đổi tiền tệ khi tài khoản đã tạo thành công.<br /><br />2.1.4<br />VN88.com là duy nhất có quyền cung cấp và chỉ định các loại ngân hàng khác nhau để hoạt động, tiếp nhận và/hoặc các quỹ thay mặt VN88.com<br /><br />2.1.5<br />Thành viên chỉ có thể có một tài khoản đăng ký trên trang web này. Nếu quý khách mở nhiều hơn một tài khoản, tất cả các tài khoản quý khách đăng ký có thể bị khóa và đóng. VN88.com có quyền chấm dứt hoặc đình chỉ tất cả các tài khoản hoặc cho phép một tài khoản duy nhất hoặc phần còn lại tài khoản có thể bị khóa hoặc đóng.Vui lòng tham khảo kết quả các Điều Kiện Sử Dụng trong mục 2.3, số dư và tiền thắng cược có thể bị hủy từ tài khoản thành viên.<br /><br />2.1.6<br />Quý khách cần phải trên 18 tuổi mới có thể tạo tài khoản. Chúng tôi có quyền yêu cầu cung cấp các bằng chứng về độ tuổi từ thành viên và đình chỉ tài khoản đến khi các tài khoản được xác minh thỏa đáng.<br /><br />2.1.7<br />Tạo tài khoản và truy cập trang web ( bao gồm trang dự phòng VN88.com hoặc tất cả các đường dẫn khác, tải ứng dụng,các ứng dụng di động) đều bị cấm truy cập từ bất kì lãnh thổ, quốc gia từ Philippines,Hoa Kỳ, Singapore, Đài Loan, Hồng Kông, Anh, Pháp, Guadeloupe. Guyana, Martinique và Reunion nơi mà tất cả giao dịch liên quan đến việc cá cược trái phép sẽ bị hủy bỏ và tài khoản quý khách sẽ bị kết thúc hoạt động của các tài khoản khác và/hoặc chấm dứt Thỏa thuận với quí khách.<br /><br />2.1.8<br />Trách nhiệm của riêng quí khách là phải đảm bảo rằng luật áp dụng cho quí khách và không cấm quí khách sử dụng và truy cập vào trang Web và thông tin chứa đưng trên đó, tải về và cài đặt phần mềm và/hoặc sử dụng và tham gia vào các Dịch vụ<br /><br />2.1.9<br />Quý khách hiểu việc tham gia và chơi các trò chơi thì đồng nghĩa là nhận thức và đồng ý với nguy cơ mất tiền gửi vào tài khoản cá cược của quý khách.<br /><br />2.1.10<br />Thành viên không được có bất kì gian lận, sữa chữa, cấu kết/ thông đồng ( ví dụ: chuyển tiền qua lại khi tham gia) hoặc các hoạt động trái pháp luật khác liên quan đến sự tham gia của quý khách trong bất kì trò chơi, các sản phẩm và các ứng dụng và không sử dụng bất kì các phần mếm hỗ trợ như robot, kỹ thuật hoặc phần mềm/phần cứng thiết bị hỗ trợ quý khách tham gia trong bất kì trò chơi, các sản phẩm hay các ứng dụng. Vui lòng tham khảo 2.2<br /><br />2.2<br />Thông Tin Tài Khoản<br /><br />2.2.1<br />Tất cả các vé cược sẽ được giữ nếu tên đăng nhập và mật khẩu của quý khách được nhập chính xác (đăng nhập thành công) hay không được phép hoặc thay mặt quý khách. Vui lòng tham khảo 2.3<br /><br />2.2.2<br />Vui lòng đăng nhập tài khoản và yêu cầu thay đổi mật khẩu ngay lập tức nếu quý khách cảm thấy có người khác biết tên đăng nhập và mật khẩu của quý khách.<br /><br />2.2.3<br />Quý khách có thể truy cập và đặt cược trong tài khoản bản thân và không được có bất kì người đại diện thay thế nào khác.<br /><br />2.2.4<br />Quý khách không mang quốc tịch Philippines, Mỹ, Đài Loan, Hong Kong và Singapore.<br /><br />2.2.5<br />Tất cả thông tin quý khách cung cấp và tạo trong hệ thống là chân thật, đầy đủ và chính xác và quý khách cần thông báo ngay lập tức cho VN88.com nếu có bất kì thay đổi thông tin.<br /><br />2.2.6<br />Quý khách có trách nhiệm báo cáo và thanh toán bất kỳ loại thuế áp dụng của quý khách theo pháp luật liên quan cho bất kì tiền thắng cược mà quý khách nhận được từ VN88.com<br /><br />2.3<br />Đình Chỉ và Khóa Tài Khoản<br /><br />2.3.1<br />VN88.com có quyền khóa hoặc đình chỉ tài khoản của quý khách mà không cần đưa ra bất kì thông báo nào và lý do có thể dẫn đến việc hủy bỏ số dư và tiền thắng cược từ tài khoản quý khách nếu:<br />(a)Hơn một tài khoản cá cược ( trùng thông tin/ nhiều tài khoản) và hoặc cố ý làm như để gian lận tiền khuyến mãi<br /><br />(b)VN88.com cho rằng quý khách đã sử dụng trang web, tải phần mêm và các ứng dụng với mục đích gian lận hoặc cho mục đích bất hợp pháp và/hoặc không hợp pháp.<br /><br />(c)VN88.com cho rằng quý khách sử dụng trang web, tải phần mềm , các ứng dụng và các phương pháp ngân hàng không công bằng , cố ý gian lận, tạo rủi ro và bất kì đường dẫn liên quan đến VN88.com<br /><br />(d)Nếu VN88.com đóng cửa hoặc tạm ngưng vì bất cứ lý do nào trong mục (a) đến (c) như trên, quý khách phải chịu trách nhiệm cho bất kì tất cả khiếu nại, thua cược, giá cược và các chi phí phát sinh khác cùa VN88.com và tất cả các đường dẫn liên quan đến, quý khách cần phải bồi thường và giữ VN88.com vô hại trong bất kì chi phí.<br /><br />(e)VN88.com có quyền giữ hoặc trừ tất cả số dư bao gồm cả tiền gửi hay nếu không sẽ bị thanh toán trong đó bao gồm tiền thắng cược, điểm thưởng, tiền về cỏ và tiền khuyến mãi , tham khao mục (a) đến (e) trên.<br /><br />2.3.2<br />VN88.com có tuyệt đối có quyền duy nhất tiếp tục đình chỉ hoặc khóa tất cả tài khoản mà VN88.com có đủ điều kiện tin rằng tất cả tài khoản bị đình chỉ/ khóa đều được tạo cùng một khách hàng, một nhóm/ tổ hợp các thành viên. Tất cả vé cược, tiền khuyến mãi và tiến thằng cược sẽ được hủy bỏ trên tất cả các tài khoản khác có liên quan mà không cần đưa ra bất kì thông báo nào. Vui lòng tham khảo 2.3",
+            "TradeQuestion": "Gửi Tiền<br /><br />3.1.1<br />Quý khách lưu ý hiện tại chúng tôi cung cấp duy nhất tiền tệ VND. Quý khách sẽ không thể thay đổi tiền tệ sau khi tài khoản đã được đăng ký tài khoản thành công.<br /><br />3.1.2<br />Tiền gửi của quý khách chuyển vào cần phải trải qua một vòng cược và đúng quy định của VN88.com trước khi tiến hành rút tiền. Nếu số tiền gửi vào chưa đạt đủ một vòng cược trước khi tiến hành rút tiền, và nếu quý khách có nhận tiền khuyến mãi trong quá trình khuyến mãi, VN88.com có thể tiến hành hủy bỏ tiến khuyến mãi, tiền thắng cược mà quý khách nhận trong chương trình khuyến mãi, và VN88.com có thể tính phí khi xử lý các khoản rút tiền của quý khách. GIá trị tiền rút có thể bị giảm xuống cho phù hợp. Vui lòng tham khảo 3.2<br /><br />3.1.3<br />Hệ thống sẽ từ chối yêu cầu rút tiền của quý khách nếu số tiền rút đó chưa tham gia đặt cược hoặc chưa đáp ứng đủ vòng cược yêu cầu trước khi thực hiện rút tiền.<br /><br />3.1.4<br />Quý khách có thể bắt đầu tiến hành tham gia cược khi gửi tiền thành công vào tài khoản và chuyển quỹ vào trong trò chơi quý khách muốn tham gia. Nhấp chọn để biết thêm chi tiết trong việc gửi tiền và chuyển quỹ vào tài khoản như thế nào. Xin vui lòng lưu ý là một số ngân hàng có thể không có trong quốc gia của quý khách. Nhấp chọn để trò chuyện trực tuyến với bộ phận hỗ trợ khách hàng để biết thêm chi tiết.<br /><br />3.1.5<br />Chuyển tiền vào tài khoản của quý khách có thể bị tính phí ngân hàng, tổ chức tài chính và cung cấp dịch vụ thanh toán của bên thứ ba. Quý khách đồng ý chịu phí giao dich gửi tiền và hoặc có quy định khác và thông báo VN88.com rằng phí giao dịch chịu bởi VN88.com khi gửi tiền vào tài khoản của quý khách. Nhấp chọn để kiểm tra lệ phí hiện tại. Hoặc nhấp chọn để trò chuyện trực tuyến với bộ phận hỗ trợ khách hàng để biết thêm chi tiết.<br /><br />3.1.6<br />Quý khách chỉ nên chuyển tiền vào tài khoản VN88 với mục đích cá cược vào trang web. Chúng tôi sẽ đình chỉ và khóa tài khoản của quý khách nếu chúng tôi có đủ lý do để tin rằng quý khách đã vi phạm các Điều Kiện Sử Dụng của VN88.com, và hoặc tin rằng quý khách có hành động gian lận trong web VN88.com hoặc các đường dẫn thay thế khác. Trong hoàn cảnh như vậy, chúng tôi có thể yêu cầu bồi thường hoặc hủy bỏ số tiền thắng cược, tiến khuyến mãi, tiền về cỏ, điểm thưởng và phí giao dịch từ tài khoản của quý khách.<br /><br />3.1.7<br />Nếu có nhầm lẫn trong tín dụng hoặc trùng lệnh giao dịch khi số tiền chuyển quý khách gửi vào tăng lên không chính xác do lỗi của con người, kỹ thuật và/hoặc hệ thống sai, VN88.com không ảnh hưởng khi sử dụng các biện pháp khác để khiếu nại và khấu trừ giá trị tiền tệ đã cập nhật sai trong tài khoản của quý khách. Khi quý khách đã sử dụng số tiền cập nhật thêm hoặc đã rút tiền trong tài khoản quý khách mà số dư đó không thuộc về quý khách thì VN88.com có quyền khấu trừ số nợ đó mà quý khách đã nợ của VN88.com. Vui lòng tham khảo 3.4<br /><br />3.2<br />Rút Tiền<br /><br />3.2.1<br />Lệnh rút tiền chỉ được thực hiện khi họ& tên trong tài khoản VN88 trùng với chủ tài khoản ngân hàng. Vui lòng tham khao mục 2<br /><br />3.2.2<br />Nếu có thể, tất cả yêu cầu lệnh rút tiền có thể thanh toán vào trong tài khoản ngân hàng mà quý khách đã tiến hành thực hiện gửi tiền trước đó trừ khi có quy định khác và được thông báo từ VN88.com<br /><br />3.2.3<br />Quý khách cần phải đăng nhập vào tài khoản và chọn mục rút tiền trên trang web. Xác nhận lệnh rút tiền là tùy thuộc vào đủ số dư của quý khách ngay tại thời điềm đó.<br /><br />3.2.4<br />Số tiền yêu cầu rút sẽ được trừ từ tài khoản của quý khách sau khi xác nhận xong (vui lòng tham khảo 3.2.3). Nhấp chọn 'Hủy Bỏ' lệnh rút tiền nếu quý khách muốn hủy lệnh rút tiền trước khi VN88.com tiến hành thanh toán lệnh giao dịch. Bất kì lệnh rút tiền đều không thể hủy bỏ nếu lệnh giao dịch đã tiến hành và số tiền rút đang tiến hành cập nhật vào tài khoản ngân hàng của quý khách và.hoặc chế độ ưa thích.<br /><br />3.2.5<br />Chúng tôi có quyền hủy bỏ, khấu trừ và tính phí đối với các khoản phát sinh có liên quan nếu chúng tôi phải trả khoản phụ thu của quý khách.<br /><br />3.2.6<br />VN88.com có quyền yêu cầu xác nhận và cung cấp các thông tin chứng từ hợp lệ để tiến hành kiểm tra và thẩm định đối với các lệnh yêu cầu rút tiền<br /><br />3.2.7<br />Rút tiền có thể bị tính phí dựa trên các khoản yêu thích hoặc phương pháp. VN88.com không tính phí rút tiền của quý khách. Quý khách cần liên hệ với ngân hàng để được tư vấn về các khoản phí phải đóng nếu có<br /><br />3.2.8<br />Quý khách có trách nhiêm báo cáo tiền thằng thua cho thẩm quyền mục đích thuế của mình",
+            "LotteryQuestion": "Phần này sẽ đề cập đến các quy tắc chung và các sản phẩm trò chơi nói riêng, các quy tắc sản phẩm riêng có thể tìm thấy tring các liên kết riêng biệt từ trang này.<br /><br />VN88.com sẽ không chịu trách nhiệm và đưa ra quyết định tuyệt đối để vô hiệu, hủy bỏ và khắc phục các lỗi nếu có một lỗi hoặc bất kỳ lỗi nào đối với đặt cược của quý khách bao gồm cả nơi:<br /><br />(a) Xổ số<br /><br />VN88.com không chịu trách nhiệm cho bất kỳ thiệt hại hoặc tổn thất nào mà được coi là / bị cho là đã phát sinh hoặc liên quan đến trang web hoặc nội dung của nó, bao gồm và không giới hạn vào bất kỳ thời gian bảo trì, sự gián đoạn máy chủ, chậm trễ về việc mở và đóng cửa của sự kiện / thị trường , thông tin gián đoạn do đường truyền Internet, lỗi và thiếu sót trong nội dung hay bất kỳ sự gián đoạn kỹ thuật nào trong trò chơi.<br />Nếu hệ thống vẫn tiếp tục chấp nhận đặt cược khi thị trường đóng cửa hoặc bị tạm ngừng giao dịch.<br />Tất cả các vé cược được hủy bỏ nếu kết quả không chính xác.<br />Những tỷ lệ không chính xác, VN88.com lập tức khắc phục sai sót hoặc sự cố được xác định rõ ràng, chúng tôi sẽ tạm ngưng và được giải quyết ngay và cho phép hủy cược.<br />Các vé cược đặt vào thị trường không chính sẽ được hủy cược.<br />Trường hợp bị gián đoạn bởi lỗi hệ thống hoặc ngưng kết nối do hệ thống máy tính trong khi Quý Khách đang thực hiện đặt cược và xác nhận, việc đặt cược sẽ kết thúc và khôi phục. Quý Khách tham khảo kết quả đặt cược thành công tại trang 'Tài khoản của tôi'.<br />Việc đặt cược sau khi thị trường đã bắt đầu quay số, vé cược sẽ được hủy bỏ và tiền cược của Quý khách sẽ được hoàn trả.<br />Tìm hiểu Quy Định trò chơi và Điều Khoản Điều Khoản được áp dụng trong sản phẩm Xổ Số ( Lottery) tại đây.<br /><br />(b) Cá Cược Thể Thao<br /><br />Không đăng đúng tỷ lệ cược / Cược Chấp/ Chênh Lệch/ và tất cả các kiểu cược khác<br />Hệ thống tiếp tục chấp nhận phiếu cược khi thị trường đóng cửa hay sự kiện/trận đấu/thị trường đóng<br />Sai kết quả và thanh toán.<br />Sai giá trước khi trận đấu bắt đầu, đang cược trong trận hoặc sau sự kiện/trận đấu/thị trường. VN88.com sẽ cố gắng khắc phục các sai sót ngay lập tức hoặc lỗi được xác định bất kỳ các cược sẽ được xử lý và giải quyết tại VN88.com, và chỉnh sửa giá tùy ý và tuyệt đối cho phép chọn hủy cược.<br />Lịch thi đấu không chính xác, tên đăng ký tham gia và tên, đội, địa điểm đã được trích dẫn, các vé cược được đặt trong các sự kiện/trận đấu hoặc tham gia sẽ bị xem là vô hiệu<br />Trong trường hợp sau khi quý khách thực hiện vé cược và xác nhận, mà bị gián đoạn bởi hệ thống liên lạc thất bại hoặc thông tin liên lạc thất bại hoặc hệ thống máy tính mà quý khách không thể tiến hành tiếp tục đặt cược, đặt cược sẽ kết thúc và hệ thống phục hồi có thể xem được kết quả vé cược trong trang 'Tài Khoản Của Tôi'<br />Các vé cược trễ được chấp nhận sau khi một sự kiện/trận đấu đã khởi động, tất cả các vé cược sẽ thanh toán như sau:<br />Nếu sự kiện thể thao trong trạng thái cho phép cược, tỷ lệ cược trong thời điểm đặt cược sẽ có sự thay đổi ( tỷ lệ thay đổi nếu ít hơn 1/1000 sẽ được coi là cược vô hiệu hoặc cược bị hủy), ngoại trừ kết quả đã được biết đến và vé cược xem như vô hiệu tr ong trường hợp này.<br />Khi sự kiện thể thao trong trạng thái trực tiếp, tỷ lệ cược sẽ được ngưng nếu như giữa đội bóng hoặc vận động viên không thế mạnh cân bằng (ví dụ như điểm số, bàn thắng vv..). Trường hợp giữa đội bóng hoặc vận động viênxảy ra bàn thắng và trận đấu trong khi Quý Khách tiến hành đặt cược, những vé cược đó được hủy bỏ và vô hiệu. Kết quả đã được biết đến và vé cược xem như vô hiệu trong trường hợp này.<br />Tìm hiểu Quy Định trò chơi và Điều Khoản Điều Khoản được áp dụng trong sản phẩm Thể Thao tại đây.<br /><br />(c) Casino<br /><br />1. Casino Trực Tuyến<br />VN88.com không chịu trách nhiệm cho bất kỳ thiệt hại hoặc tổn thất nào phát sinh trong thời gian mất kết nối internet, sự gián đoạn máy chủ, sóng video trực tuyến chậm, lỗi kết nối đường truyền internet, lỗi do bất kỳ sự gián đoạn kỹ thuật để tham gia trò chơi.<br />VN88.com không chịu trách nhiệm nếu dịch vụ kết nối internet của Quý khách chậm, gián đoạn từ nhà cung cấp dịch vụ internet và máy tính / vấn đề trình duyệt / video trực tuyến chậm.<br />Vé cược sẽ được hoàn trả nếu kết quả không chính xác do sự cố hệ thống hoặc con người.<br />Trường hợp bị gián đoạn bởi lỗi hệ thống hoặc ngưng kết nối do hệ thống máy tính trong khi Quý Khách đang thực hiện đặt cược và xác nhận, việc đặt cược sẽ kết thúc và khôi phục. Quý Khách tham khảo kết quả đặt cược thành công tại trang 'Tài khoản của tôi'.<br />Các vé cược sẽ được hủy nếu như hệ thống Casino trong thời gian bảo trì.<br />Tìm hiểu Quy Định trò chơi và Điều Khoản Điều Khoản được áp dụng trong sản phẩm Casino Trực Tuyến tại đây.<br /><br />2. Trò chơi quay số ngẫu nhiên (RNG)<br />VN88.com sẽ không chịu trách nhiệm về bất kỳ lỗi nào xảy ra trong RNG, bao gồm việc thanh toán, giải thưởng Jackpots (slots), kết hợp hoặc sử dụng trong bất kỳ trò chơi hoặc sản phẩm nào.<br />Vé cược của Quý khách sẽ bị tạm ngưng nếu Quý khách cố ý hay vô ý rút bỏ cáp điện, đóng trình duyệt, đóng ứng dụng trò chơi hoặc ứng dụng tải về, đăng xuất khỏi tài khoản và / hoặc rút cáp internet của Quý khách ra trước hoặc trong quá trình chơi và trò chơi là ở vị trí bắt đầu hay trước khi kết quả được công bố, hoặc do lỗi viễn thông của Quý khách hoặc chậm trễ trong kết nối, và là một vé cược được xác nhận. Các vé cược đã được xác nhận sẽ kết thúc sau khi kết quả của vé cược đó được công bố trên hệ thống khôi phục bình thường, Quý Khách tham khảo kết quả đặt cược thành công tại trang 'Tài khoản của tôi'.<br />VN88.com không chịu trách nhiệm nếu dịch vụ Internet của Quý khách chậm hoặc bị gián đoạn, hoặc các vấn đề thuộc máy tính/ trình duyệt của Quý khách ngắt kết nối với trò chơi.<br />Các vé cược sẽ được hủy nếu như hệ thống RNG trong thời gian bảo trì.<br />Việc nghiêm cấm sử dụng các hệ thống Bots / Máy hoặc phần mềm, chương trình để chơi trong RNG bao gồm cả tiền thật và phần chơi thử.<br />Tìm hiểu đọc kỹ Quy Định trò chơi và Điều Khoản Điều Khoản được áp dụng trong sản phẩm RNG tại đây.",
+            "LotteryRule": {
+                "introduce": "Giới Thiệu<br /><br />Số Đề là trò được chơi bằng cách khớp các số dựa trên 8 bộ kết quả. Người chơi có thể đặt vào các loại cược được giải thích bên dưới.<br /><br />Kết quả sẽ được lấy từ kết quả chính thức của thị trường xổ số Việt Nam (xem Bảng thông tin Số Đề để biết danh sách các thị trường)<br /><br />Ban tổ chức có quyền hủy bỏ kết quả trong các trường hợp sau:<br /><br />1.Lễ quay số bị hoãn trong thời gian dài<br /><br />2.Kết quả chính thức bị công bố trước khi hệ thống đóng cửa để đặt cược<br /><br />Miền Bắc<br /><br />Cơ Cấu Giải Thưởng<br /><br />",
+                "lottery": [
+                    {
+                        "title": "",
+                        "class": "my-list1",
+                        "content": [
+                            {"award": "Giải thưởng","number": ["Số lượng giải","Trùng"]},
+                            { "award": "Giải Đặc Biệt","number": ["1","5 số"] },
+                            { "award": "Giải Nhất","number": ["1","5 số"] },
+                            { "award": "Giải Nhì","number": ["2","5 số"] },
+                            { "award": "Giải Ba","number": ["6","5 số"] },
+                            { "award": "Giải Tư","number": ["4","4 số"] },
+                            { "award": "Giải Năm","number": ["6","4 số"] },
+                            { "award": "Giải Sáu","number": ["3","3 số"] },
+                            { "award": "Giải Bảy","number": ["4","2 số"] },
+                            { "award": "Tổng cộng","number": ["27 giải mỗi đợt",""] }
+                        ]
+                    },
+                    {
+                        "class": "my-list2",
+                        "title": "Kết Quả Mẫu Cho Xổ Số (Miền Bắc )",
+                        "content": [
+                            {"award": "Đặc biệt","number":["55560",""]},
+                            {"award": "Nhất","number": ["06269",""]},
+                            {"award": "Nhì","number": ["96219","06098"]},
+                            {"award": "Ba","number": ["43974","81569","16301","44081","80187","47011"]},
+                            {"award": "Tư","number": ["6064","1552","0512","7749"]},
+                            {"award": "Năm","number": ["5541","8606","3301","8505","4014","3207"]},
+                            {"award": "Sáu","number": ["896","212","638"]},
+                            {"award": "Bảy","number": ["98","89","67","00"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Các Loại Cược",
+                        "title": "2 Số",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 2 chữ số từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng 2 chữ số cuối trong lô 27 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [19] Kết quả: [96219]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "3 Số",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 3 chữ số từ 000-999"]},
+                            {"number": ["Trúng giải","Trùng 3 chữ số cuối trong lô 23 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [219] Kết quả: [96219]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "4 Số",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 4 chữ số từ 0000-9999"]},
+                            {"number": ["Trúng giải","Trùng 4 chữ số cuối trong lô 20 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [6219] Kết quả: [96219]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "5 Số",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 5 chữ số từ 00000-99999"]},
+                            {"number": ["Trúng giải","Trùng 5 chữ số cuối trong lô 10 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [96219] Kết quả: [96219]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "3 Càng",
+                        "title": "3 Số Cuối",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 3 chữ số từ 000-999"]},
+                            {"number": ["Trúng giải","Trùng 3 số cuối của giải đặc biệt"]},
+                            {"number": ["Ví dụ","Vé cược: [560] Kết quả: Giải đặc biệt [55560]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Đánh Đề",
+                        "title": "Cược Giải 7",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 2 chữ số từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng 2 chữ số ở 4 giải 7."]},
+                            {"number": ["Ví dụ","Vé cược: [89] Kết quả: Giải 7 [98 89 67 00]."]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Đề",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 2 chữ số từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng 2 số cuối của giải đặc biệt"]},
+                            {"number": ["Ví dụ","Vé cược: [60] Kết quả: Giải đặc biệt [55560]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Hàng Chục & Hàng Đơn Vị",
+                        "title": "Hàng Chục",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 1 số từ 0-9"]},
+                            {"number": ["Trúng giải","Trùng chữ số hàng chục của giải đặc biệt (*** x *)"]},
+                            {"number": ["Ví dụ","Vé cược: [6] Kết quả: Giải đặc biệt [555 6 0]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Hàng Đơn Vị",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 1 số từ 0-9"]},
+                            {"number": ["Trúng giải","Trùng với chữ số hàng đơn vị ở giải đặc biệt (**** x )"]},
+                            {"number": ["Ví dụ","Vé cược: [0] Kết quả: Giải đặc biệt [5556 0 ]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Xiên",
+                        "title": "Xiên 2",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 2 số từ 00-99"]},
+                            {"number": ["Trúng giải","Tất cả 2 số đã chọn này phải trùng với 2 số cuối ở bất kỳ các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [87 | 39] Kết quả: [ 81787 | 639 ]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Xiên 3",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 3 số từ 00-99"]},
+                            {"number": ["Trúng giải","Tất cả 3 số đã chọn này phải trùng với 2 số cuối ở bất kỳ các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [87 | 39 | 11] Kết quả: [ 81787 | 639 | 47011]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Xiên 4",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 4 số từ 00-99"]},
+                            {"number": ["Trúng giải","Tất cả 4 số đã chọn này phải trùng với 2 số cuối ở bất kỳ các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [87 | 39 | 11 | 19] Kết quả: [ 81787 | 639 | 47011 | 96219 ]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Lô Trượt",
+                        "title": "Lô Trượt Xiên 4",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 4 số từ 00-99"]},
+                            {"number": ["Trúng giải","Trượt xiên 4 của 2 chữ số cuối trong lô 27 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [78 | 99 | 01 | 88 ] Những số 78 , 99 , 01 hay 88 không xuất hiện ở bất cứ giải nào"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Lô Trượt Xiên 8",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 8 số từ 00-99"]},
+                            {"number": ["Trúng giải","Trượt xiên 8 của 2 chữ số cuối trong lô 27 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [78 | 99 | 01 | 88 | 44 | 66 | 40 | 04 | 24 ] Những số này không xuất hiện ở 2 chữ số cuối bất cứ giải nào"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Lô Trượt Xiên 10",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 10 số từ 00-99"]},
+                            {"number": ["Trúng giải","Trượt xiên 10 của 2 chữ số cuối trong lô 27 giải"]},
+                            {"number": ["Ví dụ","Bet: [78 | 99 | 01 | 88 | 44 | 66 | 40 | 04 | 24 | 06 | 60] Những số này không xuất hiện ở 2 chữ số cuối bất cứ giải nào"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list1",
+                        "tit": "Miền Trung<br />Cơ Cấu Giải Thưởng",
+                        "content": [
+                            {"award": "Giải thưởng","number": ["Số lượng giải","Trùng"]},
+                            { "award": "Giải Đặc Biệt","number": ["1","6 số"] },
+                            { "award": "Giải Nhất","number": ["1","5 số"] },
+                            { "award": "Giải Nhì","number": ["1","5 số"] },
+                            { "award": "Giải Ba","number": ["2","5 số"] },
+                            { "award": "Giải Tư","number": ["7","5 số"] },
+                            { "award": "Giải Năm","number": ["1","4 số"] },
+                            { "award": "Giải Sáu","number": ["3","4 số"] },
+                            { "award": "Giải Bảy","number": ["1","3 số"] },
+                            { "award": "Giải Tám","number": ["1","2 số"] },
+                            { "award": "Tổng cộng","number": ["18 giải mỗi đợt",""] }
+                        ]
+                    },
+                    {
+                        "class": "my-list2",
+                        "title": "Kết quả mẫu cho xổ số (Miền Trung)",
+                        "content": [
+                            {"award": "Nhất","number": ["53875",""]},
+                            {"award": "Nhì","number": ["72007",""]},
+                            {"award": "Ba","number": ["73718","34768"]},
+                            {"award": "Tư","number": ["58575","95796","51146","45714","26181","26727","69717"]},
+                            {"award": "Năm","number": ["8677",""]},
+                            {"award": "Sáu","number": ["7819","8159","1961"]},
+                            {"award": "Bảy","number": ["467",""]},
+                            {"award": "Tám","number": ["54",""]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Các Loại Cược<br />Bao Lô",
+                        "title": "2 Số",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng 2 chữ số cuối trong lô 18 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [17] Kết quả: [69717]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "3 Số",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 000-999"]},
+                            {"number": ["Trúng giải","Trùng 3 chữ số cuối trong lô 17 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [717] Kết quả: [69717]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "4 Số",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 0000-9999"]},
+                            {"number": ["Trúng giải","Trùng 4 chữ số cuối trong lô 16 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [9717] Kết quả: [69717]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "5 Số",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 00000-99999"]},
+                            {"number": ["Trúng giải","Trùng 5 chữ số cuối trong lô 12 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [69717] Kết quả: [69717]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "3 Càng",
+                        "title": "3 Càng Đầu",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 000-999"]},
+                            {"number": ["Trúng giải","Trùng số chính xác với giải 7"]},
+                            {"number": ["Ví dụ","Vé cược: [467] Kết quả: Giải 7 [467]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "3 Càng Đuôi",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 000-999"]},
+                            {"number": ["Trúng giải","Trùng 3 chữ số cuối của giải đặc biệt"]},
+                            {"number": ["Ví dụ","Vé cược: [325] Kết quả: Giải đặc biệt [097325]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "3 Càng Đầu - Đuôi",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 000 - 999."]},
+                            {"number": ["Trúng giải","Trùng số chính xác của giải 7 hoặc đánh 3 số cuối giải đặc biệt. Thắng gấp đôi nếu số xuất hiện ở 2 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [325] Kết quả: Giải đặc biệt [097325] Kết quả: Giải 7 [325] - Thắng gấp đôi"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Đánh Đề",
+                        "title": "Đề Đầu",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng số chính xác với giải 8"]},
+                            {"number": ["Ví dụ","Vé cược: [54] Kết quả: Giải 8 [54]."]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Đề Đầu",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng 2 số cuối giải đặc biệt"]},
+                            {"number": ["Ví dụ","Vé cược: [35] Kết quả: Giải đặc biệt [097325]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Hàng Chục & Hàng Đơn Vị",
+                        "title": "Hàng Chục",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 0-9"]},
+                            {"number": ["Trúng giải","Trùng chữ số thứ 10 của giải đặc biệt (**** x *)"]},
+                            {"number": ["Ví dụ","Vé cược: [2] Kết quả: Giải đặc biệt [0973 2 5]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Hàng Đơn Vị",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 0-9"]},
+                            {"number": ["Trúng giải","Trùng chữ số cuối của giải đặc biệt (***** x )"]},
+                            {"number": ["Ví dụ","Vé cược: [5] Kết quả: Giải đặc biệt [09732 5 ]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit":"Hàng CXiênhục & Hàng Đơn Vị",
+                        "title": "Xiên 2",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 2 từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng 2 số cuối ở tất cả các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [67 | 19] Kết quả: [ 7819 | 467 ]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Xiên 3",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 3 số từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng 2 số ở tất cả các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [77 | 19 | 07] Kết quả: [ 7819 | 467 | 72007]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Xiên 4",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 4 số từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng 2 số ở tất cả các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [77 | 19 | 07 | 25] Kết quả: [ 8677| 467 | 72007| 097325]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Lô Trượt",
+                        "title": "Lô Trượt Xiên 4",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 4 số từ 00-99"]},
+                            {"number": ["Trúng giải","Đánh 2 chữ số không trùng với 2 số cuối ở tất cả các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [78 | 99 | 01 | 88 ] Các số 78 , 99 , 01 hay 88 không trùng với bất cứ 2 số cuối của giải nào"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Lô Trượt Xiên 8",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 8 số từ 00-99"]},
+                            {"number": ["Trúng giải","Đánh 2 chữ số không trùng với 2 số cuối ở tất cả các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [78 | 99 | 01 | 88 | 44 | 66 | 40 | 04 | 24 ] Các số này không trùng với bất cứ 2 số cuối của giải nào"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Lô Trượt Xiên 10",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 10 số từ 00-99"]},
+                            {"number": ["Trúng giải","Đánh 2 chữ số không trùng với 2 số cuối ở tất cả các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [78 | 99 | 01 | 88 | 44 | 66 | 40 | 04 | 24 | 06 | 60] Các số này không trùng với bất cứ 2 số cuối của giải nào"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list1",
+                        "tit": "Miền Nam<br />Cơ Cấu Giải Thưởng",
+                        "content": [
+                            {"award": "Giải thưởng","number": ["Số lượng giải","Trùng"]},
+                            { "award": "Giải Đặt Biệt","number": ["1","6 số"] },
+                            { "award": "Giải Nhất","number": ["1","5 số"] },
+                            { "award": "Giải Nhì","number": ["1","5 số"] },
+                            { "award": "Giải Ba","number": ["2","5 số"] },
+                            { "award": "Giải Tư","number": ["7","5 số"] },
+                            { "award": "Giải Năm","number": ["1","4 số"] },
+                            { "award": "Giải Sáu","number": ["3","4 số"] },
+                            { "award": "Giải Bảy","number": ["1","3 số"] },
+                            { "award": "Giải Tám","number": ["1","2 số"] },
+                            { "award": "Tổng cộng","number": ["18 giải mỗi đợt",""] }
+                        ]
+                    },
+                    {
+                        "class": "my-list2",
+                        "title": "Kết quả mẫu cho xổ số (Miền Nam)",
+                        "content": [
+                            {"award": "Đặc biệt","number": ["097325",""]},
+                            {"award": "Nhất","number": ["53875",""]},
+                            {"award": "Nhì","number": ["72007",""]},
+                            {"award": "Ba","number": ["73718","34768"]},
+                            {"award": "Tư","number": ["58575","95796","51146","45714","26181","26727","69717"]},
+                            {"award": "Năm","number": ["8677",""]},
+                            {"award": "Sáu","number": ["7819","8159","1961"]},
+                            {"award": "Bảy","number": ["467",""]},
+                            {"award": "Tám","number": ["54",""]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Các Loại Cược<br />Bao Lô",
+                        "title": "2 Số",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng 2 chữ số cuối trong lô 18 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [17] Kết quả: [69717]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "3 Số",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 000-999"]},
+                            {"number": ["Trúng giải","Trùng 3 chữ số cuối trong lô 17 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [717] Kết quả: [69717]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "4 Số",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 0000-9999"]},
+                            {"number": ["Trúng giải","Trùng 4 chữ số cuối trong lô 16 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [9717] Kết quả: [69717]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "5 Số",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 00000-99999"]},
+                            {"number": ["Trúng giải","Trùng 5 chữ số cuối trong lô 12 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [69717] Kết quả: [69717]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "3 Càng",
+                        "title": "3 Càng Đầu",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 000-999"]},
+                            {"number": ["Trúng giải","Trùng số chính xác với giải 7"]},
+                            {"number": ["Ví dụ","Vé cược: [467] Kết quả: Giải 7 [467]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "3 Càng Đuôi",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 000-999"]},
+                            {"number": ["Trúng giải","Trùng 3 chữ số cuối của giải đặc biệt"]},
+                            {"number": ["Ví dụ","Vé cược: [325] Kết quả: Giải đặc biệt [097325]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "3 Càng Đầu - Đuôi",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 000 - 999."]},
+                            {"number": ["Trúng giải","Trùng số chính xác của giải 7 hoặc đánh 3 số cuối giải đặc biệt. Thắng gấp đôi nếu số xuất hiện ở 2 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [325] Kết quả: Giải đặc biệt [097325] Kết quả: Giải 7 [325] - Thắng gấp đôi"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Đánh Đề",
+                        "title": "Đề Đầu",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng số chính xác với giải 8"]},
+                            {"number": ["Ví dụ","Vé cược: [54] Kết quả: Giải 8 [54]."]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Đuôi Đặc Biệt",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng 2 số cuối giải đặc biệt"]},
+                            {"number": ["Ví dụ","Vé cược: [35] Kết quả: Giải đặc biệt [097325]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Đề Đầu Và Đuôi Đặc Biệt",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 2 số từ 00 - 99."]},
+                            {"number": ["Trúng giải","Trùng số chính xác của giải 8 hoặc đánh 2 số cuối giải đặc biệt. Thắng gấp đôi nếu số xuất hiện ở 2 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [25] Kết quả: Giải đặc biệt [097325] Kết quả: Giải 8 [25] - Thắng gấp đôi"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Đề Đầu Và Đuôi Đặc Biệt",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 2 số từ 00 - 99."]},
+                            {"number": ["Trúng giải","Trùng số chính xác của giải 8 hoặc đánh 2 số cuối giải đặc biệt. Thắng gấp đôi nếu số xuất hiện ở 2 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [25] Kết quả: Giải đặc biệt [097325] Kết quả: Giải 8 [25] - Thắng gấp đôi"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Hàng Chục & Hàng Đơn Vị",
+                        "title": "Hàng Chục",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 0-9"]},
+                            {"number": ["Trúng giải","Trùng chữ số thứ 10 của giải đặc biệt (**** x *)"]},
+                            {"number": ["Ví dụ","Vé cược: [2] Kết quả: Giải đặc biệt [0973 2 5]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Hàng Đơn Vị",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 0-9"]},
+                            {"number": ["Trúng giải","Trùng chữ số cuối của giải đặc biệt (***** x )"]},
+                            {"number": ["Ví dụ","Vé cược: [5] Kết quả: Giải đặc biệt [09732 5 ]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Xiên",
+                        "title": "Xiên 2",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 2 số từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng 2 số cuối ở tất cả các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [67 | 19] Kết quả: [ 7819 | 467 ]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Xiên 3",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 3 số từ 00 - 99."]},
+                            {"number": ["Trúng giải","Trùng 3 số cuối ở tất cả các giải."]},
+                            {"number": ["Ví dụ","Trùng 3 số cuối ở tất cả các giải."]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Xiên 4",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 4 số từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng 2 số ở tất cả các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [77 | 19 | 07 | 25] Kết quả: [ 8677| 467 | 72007| 097325]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Lô Trượt",
+                        "title": "Lô Trượt Xiên 4",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 4 số từ 00-99"]},
+                            {"number": ["Trúng giải","Đánh 2 chữ số không trùng với 2 số cuối ở tất cả các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [78 | 99 | 01 | 88 ] Các số 78 , 99 , 01 hay 88 không trùng với bất cứ 2 số cuối của giải nào"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Lô Trượt Xiên 8",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 8 số từ 00-99"]},
+                            {"number": ["Trúng giải","Đánh 2 chữ số không trùng với 2 số cuối ở tất cả các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [78 | 99 | 01 | 88 | 44 | 66 | 40 | 04 | 24 ] Các số này không trùng với bất cứ 2 số cuối của giải nào"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Lô Trượt Xiên 10",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 10 số từ 00-99"]},
+                            {"number": ["Trúng giải","Đánh 2 chữ số không trùng với 2 số cuối ở tất cả các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [78 | 99 | 01 | 88 | 44 | 66 | 40 | 04 | 24 | 06 | 60] Các số này không trùng với bất cứ 2 số cuối của giải nào"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list1 my-list4",
+                        "tit": "Bảng Thông Tin Số Đề<br />Thị Trường Nhanh",
+                        "content": [
+                            {"award": "Thị trường","number": ["Tần số quay","Thời gian bắt đầu","Thời gian kết thúc"]},
+                            { "award": "Đa Quốc Gia","number": ["120 giây","00:00:00","23:59"] },
+                            { "award": "Xổ Số Siêu Tốc","number": ["120 giây","00:01:00","23:59"] }
+                        ]
+                    },
+                    {
+                        "class": "my-list5",
+                        "title": "Thị Trường Chính",
+                        "content": [
+                            {"number": ["","Miền Bắc","Miền Trung","Miền Nam"]},
+                            {"number": ["","Giờ Mở Cược","Giờ Đóng Cược","Giờ Mở Cược ","Giờ Đóng Cược","Giờ Mở Cược","Giờ Đóng Cược"]},
+                            {"award": "Thời Gian Xổ Chính Thức (GMT+7)","number": ["","18:15:00","","17:15:00","","16:10:00"]},
+                            {"award": "Thời Gian Xổ Chính Thức (GMT+8)","number": ["20:15:00","19:15:00","19:15:00","18:15:00","18:10:00","17:10:00"]},
+                            {"number": ["Chủ Nhật","Thái Bình (TBH)","Kon Tum (KT) Khánh Hòa (KH)","Tiền Giang (TG) Kiên Giang (KG) Lâm Đồng (LD)"]},
+                            {"number": ["Thứ 2","Hanoi (HN)","Hanoi (HN)","Hồ Chí Minh (HCM) Đồng Tháp (DT) Cà Mau (CM)"]},
+                            {"number": ["Thứ 3","Quảng Ninh (QNH)","Quảng Nam (QNM) Đắk Lắk (DLK)","Bến Tre (BTR) Vũng Tàu (VT) Bạc Liêu (BL)"]},
+                            {"number": ["Thứ 4","Bắc Ninh (BN)","Đà Nẵng (DNG) Khánh Hòa (KH)","Đồng Nai (DN) Cần Thơ (CT) Sóc Trăng (ST)"]},
+                            {"number": ["Thứ 5","Hanoi (HN)","Bình Định (BDH) Quảng Bình (QB) Quảng Trị (QT)","Tây Ninh (TN) An Giang (AG) Bình Thuận (BTH)"]},
+                            {"number": ["Thứ 6","Hải Phòng (HP)","Gia Lai (GL) Ninh Thuận (NT)","Vĩnh Long (VL) Bình Dương (BD) Trà Vinh (TV)"]},
+                            {"number": ["Thứ 7","Nam Định (ND)","Đà Nẵng (DNG) Quảng Ngãi (QNI) Đắc Nông (DNO)","Hồ Chí Minh (HCM) Long An (LA) Hậu Giang (HG) Bình Phước (BP)"]}
+                        ]
+                    }
+                ]
+            },
+            "Userment": "THỎA THUẬN SỬ DỤNG<br /><br />Đây là thỏa thuận pháp lý giữa Khách hàng với Nhà Cái FB88, quy định các điều khoản trong việc Khách hàng sử dụng các sản phẩm/ trò chơi thuộc quyền sở hữu của FB88. Thỏa thuận này là hợp đồng điện tử giữa Hai Bên. Bằng cách nhấp chuột vào nút “Đồng ý” khi đăng ký tài khoản và tham gia các sản phẩm, trò chơi tại trang web, ứng dụng phần mềm của FB88, Khách hàng đồng ý rằng các điều khoản này sẽ được áp dụng nếu Khách hàng lựa chọn truy cập hoặc sử dụng dịch vụ và thao tác nhấp chuột đăng ký tài khoản tại FB88 này tương đương với việc Hai Bên đã đồng ý với các điều khoản của thỏa thuận. Trong trường hợp quý khách không tuân thủ các Thoản Thuận này có thể dẫn đến việc quý khách không đủ điều kiện tạo tài khoản và/hoặc tài khoản có thể bị khóa, và/hoặc số dư trong tài khoản sẽ bị trừ hết; và/hoặc pháp lý sẽ được áp dụng cho việc không tuân thủ thỏa thuận sử dụng.<br /><br />Thuận này, Chúng Tôi sẽ bắt đầu cung cấp cho thành viên lợi ích của FB88 ngay lập tức. Do đó, nếu thành viên chấp nhận các Thỏa Thuận này khi đăng ký tài khoản FB88, thành viên sẽ không thể hủy đăng ký của mình sau đó, mặc dù thành viên có thể chấm dứt tài khoản của mình theo Điều Khoản Điều Khoản Vô Hiệu Hóa Tài Khoản bên dưới:<br /><br />Nếu thành viên không đồng ý bị ràng buộc bởi tất cả các điều khoản, vui lòng không truy cập, sử dụng và/ hoặc đóng góp cho FB88<br /><br />Thành viên đồng ý sử dụng FB88 và tuân thủ theo các quy định đưa ra và không vi phạm các quyền sử dụng, quyền riêng tư, vi phạm sự riêng tư, không Tham gia vào việc quấy rối, đe dọa, làm phiền nhiễu, gửi thư hàng loạt, hoặc phá hoại, không thực hiện gửi thư lan truyền, thư rác, hoặc thư quảng cáo đến người dùng khác,không đưa những nội dung sai sự thật hoặc không chính xác, giả mạo thành viên khác, hoặc bất kỳ mục đích quảng cáo hay thương mại nào khác không được sự chấp thuận công khai của FB88<br /><br />SỬA ĐỔI ĐIỀU KHOẢN SỬ DỤNG<br /><br />FB88 được quyền điều chỉnh, sửa đổi, bổ sung hoặc hủy bỏ bất kỳ điều khoản cụ thể nào của Điều khoản sử dụng hoặc các chính sách liên quan đến Dịch vụ tại bất cứ thời điểm nào mà FB88 cho là phù hợp.<br /><br />Những điều chỉnh, sửa đổi, bổ sung hoặc hủy bỏ Điều khoản sử dụng hoặc các chính sách có liên quan đến Dịch vụ sẽ có hiệu lực ngay khi nội dung được đăng tải trên trang FB88 hoặc ứng dụng trò chơi của FB88<br /><br />Trường hợp có một sự thay đổi đáng kể đối với Điều Khoản và Điều Kiện cho thành viên, Chúng Tôi sẽ thông báo cho thành viên về sự thay đổi đó bằng qua email, qua điện thoại hay qua các thông báo trong bản tin tại FB88 trong khoảng thời gian hợp lý trước khi thay đổi có hiệu lực. Nếu thành viên không chấp nhận việc thay đổi điều khoản sử dụng được thông báo, thành viên nên đóng tài khoản của mình trước khi thay đổi có hiệu lực.<br /><br />Tất cả các thay đổi khác sẽ được công bố trên trang web tại Điều Khoản và Điều Kiện tại hoặc trước thời điểm (các) thay đổi có hiệu lực.<br /><br />Việc thành viên tiếp tục sử dụng các dịch vụ, sản phẩm, các trò chơi tại FB88 sau thời điểm có hiệu lực của việc sửa đổi, hủy bỏ, bổ sung, thay thế có nghĩa là khách hàng hoàn toàn chấp nhận các sửa đổi, hủy bỏ, bổ sung, thay thế đó.<br /><br />CAM KẾT SỬ DỤNG<br /><br />Thành viên đồng ý rằng việc thành viên truy cập vào trang web và sử dụng dịch vụ của FB88, trang web, phần mềm, những thông tin và các diễn giải trong Điều Khoản và Điều Kiện sẽ được điều chỉnh và tuân thủ theo luật pháp hiện hành.<br /><br />Chúng Tôi không cung cấp lời khuyên liên quan đến thuế và/ hoặc các vấn đề pháp lý.<br /><br />Truy cập và sử dụng dịch vụ/sản phẩm/ứng dụng và các dịch vụ khác của FB88 có thể không hợp pháp đối với một số người ở một số quốc gia nhất định. FB88 không khuyến khích thành viên tham gia tại tại nơi mà các hoạt động đó bị cấm bởi luật pháp.<br /><br />Thành viên có trách nhiệm hiểu và xác định luật áp dụng cho khu vực mà thành viên cư ngụ và FB88 không chấp nhận bất kì trách nhiệm nào theo bất kì luật nào trong bất kì khu vực nào khác.<br /><br />Bất kỳ tranh chấp, hành động, khiếu nại hay lý do khởi kiện xuất phát từ hay liên quan đến Điều khoản sử dụng hoặc Dịch vụ sẽ hoàn toàn thuộc quyền xét xử của tòa án có thẩm quyền của Trung Tâm Giải Quyết Tranh Chấp của Philippines ('PDRCI'),các bên cùng thống nhất chỉ định một (01) trọng tài, địa điểm tố tụng trọng tài là Metro Manila, Philippines, ngôn ngữ trọng tài bằng tiếng Anh. Nhà cung cấp, thành viên và tòa án sẽ bảo mật và không tiết lộ tất cả các vấn đề liên quan đến thủ tục tố tụng và thông tin các bên tại mọi thời điểm.<br /><br />Thành viên liên quan đến các vấn đề phát sinh trên thì nhà cung cấp dịch vụ có toàn quyền quyết định bất kì tranh tranh chấp, hành động, khiếu nại hay lý do khởi kiện xuất phát từ hay liên quan đến Điều khoản sử dụng hoặc Dịch vụ ngay tòa án tại địa điểm tố tụng Metro Manila, Philippines hay địa điểm tố tụng hợp pháp khác được chỉ định.<br /><br />Các cá nhân dưới 18 tuổi không được phép sử dụng các sản phẩm, dịch vụ, ứng dụng của FB88. Thành viên phải đủ hoặc trên 18 tuổi và có đầy đủ năng lực pháp luật để thực hiện giao dịch mới có thể tham gia và sử dụng các dịch vụ, sản phẩm của FB88. Trong trường hợp FB88 kiểm tra và phát hiện quý khách dưới 18 tuổi thì tài khoản sẽ được xử lý theo các quy định trong Điều Khoản và Điều Kiện.<br /><br />Chúng tôi sẽ không cung cấp dịch vụ sử dụng, các trò chơi, các ứng dụng của FB88 nếu quý khách hay quốc gia hoặc lãnh thổ của Quý khách không thể chấp nhận bất kỳ quy tắc nào trong nội dung của Điều Khoản Sử Dụng này , cũng như pháp luật nghiêm cấm sử dụng các dịch vụ , sản phẩm, ứng dụng hiện có tại FB88.<br /><br />Thành viên sẽ chịu trách nhiêm trong việc sử dụng các dịch vụ, sản phẩm, ứng dụng của FB88 tại khu vực, quốc gia hay lãnh thổ quý khách đang truy cập. Ngoài ra, nếu quý khách truy cập trái phép, FB88 không chịu bất kỳ trách nhiệm nào, dù trực tiếp hay gián tiếp, đối với những thiệt hại hoặc mất mát gây ra do Quý khách không tuân thủ quy định.<br /><br />Chúng tôi có quyền yêu cầu thành viên cung cấp thông tin, dữ liệu cá nhân để chắc chắn rằng thành viên đủ tuổi tham gia tại FB88. Nếu chung tôi nghi ngờ, hay thông tin thành viên cung cấp không chính xác hay dữ liệu cung cấp chưa thỏa đáng trong việc xác minh tuổi thì tài khoản của thành viên có thể bị khóa tạm thời và/hoặc khóa vĩnh viễn bao gồm luôn số dư tài khoản sẽ bị hủy.<br /><br />Thành viên cần xác nhận rằng việc không đáp ứng các yêu cầu từ chúng tôi để xác minh them về danh tính, tuổi tác thì tài khoản sẽ tạm khóa và/hoặc khóa vĩnh viễn, kèm theo số dư sẽ bị trừ tất cả và thành viên sẽ không được quyền kháng cáo trừ khi kháng cáo được cơ quan thẩm quyền chỉ định yêu cầu.<br /><br />Nếu trong quá trình xác minh hoàn tất, thành viên được chứng minh là chưa đủ tuổi, Chúng Tôi có quyền vô hiệu tất cả các giao dịch được thực hiện trong khi thành viên chưa đủ tuổi. Chúng Tôi có quyền đóng tài khoản của thành viên và tịch thu tất cả số dư nếu có.<br /><br />Trong trường hợp bất kỳ điều khoản nào trong các Điều khoản và Điều kiện này được bất kỳ cơ quan có thẩm quyền nào coi là không thể thực thi hoặc không hợp lệ, thì điều khoản liên quan sẽ được sửa đổi để cho phép nó được thi hành theo ý định của văn bản gốc ở mức độ tối đa được luật pháp hiện hành cho phép và hiệu lực thi hành của các điều khoản còn lại của các Điều khoản và Điều kiện này sẽ không bị ảnh hưởng.<br /><br />Bất kỳ điều khoản nào trong các Điều khoản và Điều kiện không hợp lệ, bất hợp pháp hoặc không thể thi hành trong bất kỳ khu vực pháp lý nào đều sẽ không có hiệu lực trong phạm vi quyền hạn cụ thể đó, mà không ảnh hưởng đến hiệu lực, tính hợp pháp hoặc tính thực thi của điều khoản đó trong các khu vực pháp lý khác.",
+            "GameRespon": "Chống Các Tệ Nạn Cờ Bạc<br /><br />VN88 phấn đấu để cung cấp một kênh giải trí cho khách hàng của chúng tôi một cách tích cực. Phục vụ mục đích này, chúng tôi có biện pháp bảo vệ và đảm bảo cờ bạc có trách nhiệm. Chúng tôi khuyến khích khách hàng của chúng tôi xác định mức độ rủi ro của họ về vấn đề cờ bạc qua việc tham khảo các thông điệp bên dưới :<br /><br />Có bao giờ bạn bỏ bê công việc hoặc học hành để chơi cá cược?<br /><br />Bạn cá cược để thoát khỏi sự buồn chán?<br /><br />Khi thua cược hết tiền, bạn có cảm thấy mất mác, tuyệt vọng và cần cược lại ngay lập tức ?<br /><br />Có bao giờ bạn cược đến hết số tiền bạn có?<br /><br />Có bao giờ bạn nói dối để che đậy số tiền hoặc thời gian mà bạn đã bỏ ra để cược?<br /><br />Có bao giờ bạn nói dối hoặc tính tới việc phạm tội trộm cắp để có tiền cá cược?<br /><br />Có bao giờ bạn miễn cưỡng dùng tiền cược để tiêu xài cho những thứ khác?<br /><br />Có bao giờ bạn không còn quan tâm đến gia đình, bạn bè hoặc các thói quen của bạn nữa ?<br /><br />Sau khi thua hết tiền, Có bao giờ bạn cảm thấy nhất định phải gỡ lại tiền thua ngay lập tức?<br /><br />Nếu các câu trả lời trên là '' Liên Hệ '' thì có thể bạn có dấu hiệu tệ nạn các cược. Chúng tôi khuyên bạn: :<br /><br />Chỉ nên xem cá cược như là để giải trí<br /><br />Tránh các thiệt hại<br /><br />Chơi cá cược có giới hạn<br /><br />Theo giõi và tự quản lý lại quỹ thời gian và tiền bạc mà bạn đã dành cho cá cược<br /><br />Để tìm lời khuyên và hỗ trợ về vấn đề cờ bạc, xin vui lòng truy cập vào lúc GamCare <a href='https://www.gamcare.org.uk' target='_blank'>www.gamcare.org.uk</a> cho biết thêm thông tin.<br /><br />Chức Năng Tự Loại Bản Thân:<br /><br />Đối với những khách hàng muốn tự loại trừ bản thân khỏi cá cược, chúng tôi cung cấp đến quý khách hình thức yêu cầu đóng tài khoản trong khoảng thời gian tối thiểu 6 tháng cho đến 5 năm. Xin vui lòng liên hệ Hỗ trợ khách hàng qua mục '' Liên Hệ '' trên trang chủ của chúng tôi để biết thêm chi tiết.<br /><br />Hạn Chế độ Tuổi:<br /><br />VN88 có quyền yêu cầu khách hàng cung cấp bằng chứng về độ tuổi, nếu khách hàng dưới 18 tuổi thì đã phạm luật. Tài khoản của khách hàng sẽ bị từ chối cho đến khi cung cấp được bằng chứng thỏa đáng về độ tuổi. Độ tuổi cá cược ở mỗi quốc gia là khác nhau, quý khách nên tìm hiểu trước khi thực hiện cá cược.<br /><br />VN88 khuyên quý khách nên tự bảo vệ tài khoản của chính mình qua việc bảo mật các thông tin về số tài khoản, tên truy cập và mật khẩu.<br /><br />Quản Lý Từ Các Bậc Phụ Huynh:<br /><br />Các phần mềm sau sẽ hỗ trợ cho các bậc phụ huynh trong việc kiểm soát hoặc chặn lại sự truy cập trên mạng :<br /><br />Net Nanny - phần mềm bảo vệ trẻ em khỏi truy cập các trang web không thích hợp : <a href='https://www.netnanny.com' target='_blank'>www.netnanny.com</a><br /><br />CYBERsitter - phần mềm cho phép các bậc phụ huynh khóa các trang web riêng mà họ muốn : <a href='https://www.cybersitter.com' target='_blank'>www.cybersitter.com</a>",
+            "Privacy": "Về chúng tôi<br /><br />1.Chính sách bảo mật này mô tả cách thức mà VN88.com xử lý thông tin của quý khách và dữ liệu quý khách cung cấp cho chúng tôi có thể quản lý tham gia trong các sản phẩm và các trò chơi , các chức năng tổng thể và hoạt động của hệ thống và trang web.<br /><br />2.Quý khách đồng ý, thừa nhận và tán thành cho VN88.com tiến hành thực hiện thông tin của quý khách và mục đích cho phép sử dụng dữ liệu, đăng ký tài khoản và sử dụng trang web để cho phép quý khách tham gia trong các sản phẩm của chúng tôi và các trò chơi để cung cấp dịch vụ cho quý khách<br /><br />3.VN88.com chỉ có thể sử dụng thông tin cá nhân và dữ liệu cho phép quý khách tham gia trong các sản phẩm và các trò chơi, và thực hiện các hoạt động liên quan đến sự tham gia của quý khách trong các trò chơi và các thủ tục xác minh tài khoản của quý khách.<br /><br />4.Bằng cách gửi thông tin của quý khách và dữ liệu cho chúng tôi và sử dụng trang web, quý khách đồng ý cho tất cả các tiết lộ giữa các công ty thuộc VN88.com (bao gồm nhưng không giới hạn giao dịch chéo, nhà cung cấp , cổng thanh toán) có thể chịu trách nhiệm cho một số chức năng và hoạt động hệ thống và trang web như quy định trong chính sách bảo mật<br /><br /><br /><br />Thông tin cá nhân và dữ liệu của quý khách có thể sử dụng cùng lúc với các thông tin khác với mục đích sau:<br /><br />(a)Liên quan đến các giao dịch bao gồm thanh toán trực tuyến và thanh toán ngoại tuyền (truyền thống)<br /><br />(b)Giao dịch các vé cược<br /><br />(c)Quản lý tài khoản thành viên và nâng cấp hồ sơ thành viên<br /><br />(d)Tuân thủ các trách nhiệm pháp lý và dịch vụ của chúng tôi<br /><br />(e)Nghiên cứu, khảo sát và phân tích thành viên<br /><br />(f)Cung cấp khuyến mãi , các sản phẩm và hỗ trợ<br /><br />(g)Giám sát các giao Giám sát các giao dịch thành viên để kiểm tra việc gian lận, hoạt động cá cược bất thường, gian lận tiền thưởng, thông đồng cược nhóm và gian lận.<br /><br />5.Bộ phận hỗ trợ khách hàng của chúng tôi có thể liên hệ quý khách bằng điện thoại, email, tin nhắn (SMS) và hoặc thậm chí bằng tất cả các kênh liên hệ. Nếu các cuộc gọi đến và đi từ bộ phận hỗ trợ khách hàng của chúng tôi đều được ghi âm cho các mục địch an ninh và yêu cầu với bất kì vấn đề quý khách nhận từ nhóm hỗ trợ.<br /><br />6.Cookies thông tin liên hệ được chuyển vào ổ cứng máy tính của quý khách. Chúng tôi sử dụng một số cookies cho việc hoạt động trang web. Vui lòng nhấp chon xóa cookies từ trình duyệt của quý khách nếu quý khách muốn xóa bất kỳ cookies nào đã được lưu trữ trên máy tính của quý khách<br /><br />7.Bất kỳ chính sách bảo mật của chúng tôi có thay đổi sẽ được đăng trên trang này và có hiệu lực ngay lập tức<br /><br />8.VN88.com có thể công bố giải thưởng của quý khách khi tham gia các chương trình khuyến mãi trên web tại trang'' Người Chiến  ''. Danh sách sẽ bao gồm các thành viên'' Tên Đăng Nhập '' và số tiền thắng.",
+            "Concatus": "Nếu bạn gặp sự cố về nạp tiền, rút ​​tiền,… bạn có thể liên hệ với chúng tôi theo các ưu tiên sau:<br /><br />dịch vụ trực tuyến：<a href='https://www.baidu.com'>Bấm vào đây để liên hệ</a><br /><br />Dịch vụ khách hàng ZALO：******  （Vui lòng cho biết tên người dùng của bạn trên nền tảng khi thêm QQ, nếu không nó sẽ không thành công）"
+        }
+    },
+    "bankList":{
+        "YNNN":"Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam",
+        "YNTZ":"Ngân hàng Đầu tư và Phát triển Việt Nam",
+        "YNSF":"Ngân hàng Chính sách xã hội Việt Nam",
+        "XGTT":"Ngân hàng Sài Gòn Thương Tín",
+        "YNGS":"Ngân hàng Công thương Việt Nam",
+        "YNWM":"Ngân hàng Ngoại Thương Việt Nam",
+        "YZSY":"Ngân hàng Á Châu",
+        "HSYH":"Ngân hàng Hàng Hải",
+        "YNXW":"Ngân hàng Việt Nam Thịnh Vương",
+        "DYH":"Ngân hàng Đông Á",
+        "JSYH":"Ngân hàng Quân Đội",
+        "KJSY":"Ngân hàng Kỹ Thương",
+        "LLYN":"Ngân hàng Bưu điện Liên Việt",
+        "JLYH":"Ngân hàng Kiên Long",
+        "GJYH":"Ngân hàng Quốc Tế",
+        "XGHN":"Ngân hàng Sài Gòn – Hà Nội",
+        "HZMS":"Ngân hàng Phát triển Thành phố Hồ Chí Minh",
+        "DAYH":"Ngân hàng Phương Đông",
+        "APYH":"Ngân hàng An Bình",
+        "JCKYH":"Ngân hàng Xuất Nhập Khẩu",
+        "XGSY":"Ngân hàng cổ phần thương mại Sài Gòn",
+        "DNYYH":"Ngân hàng Đông Nam Á",
+        "XGGY":"Ngân hàng Sài Gòn Công Thương",
+        "DZYH":"Ngân hàng Đại Chúng",
+        "BKYH":"Ngân hàng Bắc Á",
+        "JKYH":"Ngân hàng Xây dựng",
+        "YNYH":"Ngân hàng Việt Á",
+        "HYYH":"Ngân hàng TNHH MTV Đại Dương",
+        "TFYH":"Ngân hàng Tiên Phong",
+        "NAYH":"Ngân hàng Nam Á",
+        "QQSY":"Ngân hàng TNHH MTV Dầu khí toàn cầu (GP Bank)",
+        "BVYH":"Ngân hàng Bản Việt",
+        "GJGM":"Ngân hàng Quốc Dân",
+        "SYYH":"Ngân hàng Xăng dầu PG",
+        "BYYH":"Ngân hàng Bảo Việt",
+        "_binance": "binance",
+        "_gateio": "gateio",
+        "_huobi": "huobi",
+        "_okex": "okex",
+        "_tether": "tether" 
+    }
+}

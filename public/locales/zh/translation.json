@@ -1,0 +1,1083 @@
+{
+    "app-name": "摩登越南",   
+    "login": "登录",
+    "register": "注册",
+    "logout": "退出",
+    "userCenter": "个人中心",
+    "tipsTitle":"温馨提示",
+    "ok": "确定",
+    "cancel": "取消",
+    "goSet":"前往设置",
+    "notSetPwd":"您尚未设置资金密码",
+    "back":"返回",
+    "createTime":"创建时间",
+    "dialogs": {
+        "payPassword": {
+            "title": "请先验证资金密码",
+            "label": "资金密码",
+            "placeholder": "请输入资金密码",
+            "rule": [
+                "请输入资金密码",
+                "资金密码错误!"
+            ]
+        }
+    },
+    "pages": {
+        "home": "首页",
+        "jisucai": "极速彩",
+        "north": "北部",
+        "middle": "中部",
+        "south": "南部",
+        "sports": "体育",
+        "live": "真人娱乐",
+        "slots": "电子游戏",
+        "esports": "电子竞技",
+        "userCenter": {
+            "deposit": "存款",
+            "transfer": "转账",
+            "withdrawal": "提款",
+            "info": "个人资料",
+            "wdMethod": "绑卡管理",
+            "transactions": "交易记录",
+            "gameRecords": "游戏记录",
+            "messages": "消息记录"
+        }
+    },
+    "personCenter": {
+        "deposit": {
+            "recharge":"充值",
+            "selectRechargefn":"选择支付方式",
+            "more":"更多",
+            "bank":"银行卡",
+            "cash":"现金",
+            "usdt":"USDT",
+            "momopay":"MOMO PAY",
+            "selectBank":"选择银行",
+            "pselectBank":"请选择银行",
+            "thirdParty":"第三方",
+            "tip":"充值申请已提交，请于30分钟内在新打开的页面完成支付",
+            "rechargefn":"充值方式",
+            "rechargeCash":"充值金额",
+            "tip2":"当您完成支付请耐心等待几分钟，进入管理中心>充值记录可查看充值到账情况。",
+            "numpay":"数值货币支付",
+            "payscuess":"充值申请已提交，请请于30分钟内至三方数字货币平台进行USDT转账",
+            "protocol":"转账协议",
+            "copy":"复制",
+            "address":"转账地址",
+            "refresh":"刷新",
+            "needtransfer":"需转账",
+            "tips":"温馨提示",
+            "tip3":"使用USDT支付前，请务必确认您的钱包是基于比特币的 USDT(OMMI USDT),还是基于以太坊的 USDT (ERC20 USDT),两者之间不能相互转账，否则资产将不可找回",
+            "cashrecharge":"现金充值",
+            "tip4":"充值申请已提交，请于30分钟内在新打开的页面完成支付",
+            "onlinebank":"网银转账",
+            "onlinetip":"充值申请已提交，请于30分钟内在新打开的页面完成支付",
+            "transferCash":"转账金额",
+            "receivingBank":"收款银行卡",
+            "receivingnum":"收款卡号",
+            "receivingname":"收款人姓名",
+            "transferRemarks":"转账备注",
+            "websitetotransfer":"前往网站进行转账",
+            "transfertip1":"当您完成支付请耐心等待几分钟，进入个人中心>充值记录可查看充值到账情况。",
+            "inputCash":"请输入金额",
+            "fastRecharge":"立即充值",
+            "nowcard":"现金卡",
+            "clicksave":"请点击进入存款页面",
+            "huilv":"当前参考汇率",
+            "pay":"预计支付",
+            "precautions":"注意事项",
+            "low1":"单次充值金额最低",
+            "low2":"最高",
+            "low3":"此通道收取",
+            "low4":"的手续费",
+            "kefu":"如充值后未到账，请联系在线客服。",
+            "ckefu":"联系在线客服"
+        },
+        "transfer": {
+            "lottery":"彩票账户",
+            "name":"转账",
+            "game":"游戏账户",
+            "notransfer":"钱包之间不支持相互转账",
+            "fastTransfer":"立即转账"
+        },
+        "withdrawal": {
+            "name":"提现",
+            "withdrawfn":"提款方式",
+            "withbag":"提款钱包",
+            "xieyi":"协议",
+            "withcash":"提款金额",
+            "withltime":"提款限额",
+            "hight":"最高",
+            "low":"最低",
+            "fast":"立即提款",
+            "bank":"提款银行",
+            "nobanktip":"您尚未绑定银行卡，请先绑定银行卡",
+            "go":"前往绑定",
+            "hl":"当前参考汇率",
+            "target":"最终到账",
+            "tipcash":"单笔手续费"
+        },
+        "info": {
+            "title": {
+                "profile": "基本资料",
+                "security": "账户安全",
+                "nickname": "昵称",
+                "password": "登录密码",
+                "walletcode": "资金密码",
+                "pwdHint": "密保问题",
+                "phone": "手机号",
+                "email": "电子邮箱"
+            },
+            "label": {
+                "username": "账号",
+                "nickname": "昵称",
+                "realname": "姓名",
+                "last_login": "上次登录",
+                "register_time": "注册时间",
+                "password": "登录密码",
+                "walletcode": "资金密码",
+                "pwdhint": "密保问题",
+                "phone": "手机号",
+                "email": "电子邮箱",
+                "google_verify": "谷歌身份验证",
+                "curPwd": "当前登录密码",
+                "newPwd": "新登录密码",
+                "checkNewPwd": "确认新登录密码",
+                "curWalletcode": "当前资金密码",
+                "newWalletcode": "新资金密码",
+                "checkNewWalletcode": "确认新资金密码",
+                "pwdHint": "选择密保问题",
+                "pwdHintAns": "密保答案",
+                "verifycode": "验证码"
+            },
+            "placeholder": {
+                "no_bind": "未绑定",
+                "no_set": "未设置",
+                "no_verfied": "未验证",
+                "nickname": "请输入昵称",
+                "curPwd": "请输入当前登录密码",
+                "newPwd": "请输入新登录密码",
+                "checkNewPwd": "请再次输入新登录密码",
+                "curWalletcode": "请输入当前资金密码",
+                "newWalletcode": "请输入新资金密码",
+                "checkNewWalletcode": "请再次输入新资金密码",
+                "pwdHint": "请选择密保问题",
+                "pwdHintAns": "请输入答案",
+                "phone": "请输入您的手机号",
+                "verifycode": "请输入验证码",
+                "email": "请输入电子邮箱"
+            },
+            "btnText": {
+                "update": "修改",
+                "bind": "立即绑定",
+                "set": "立即设置",
+                "verify": "验证",
+                "verify_now": "立即验证",
+                "getVerifycode": "获取验证码"
+            },
+            "errMsg": {
+                "no_nickname": "请输入昵称",
+                "no_phone": "请输入您的手机号",
+                "no_email": "请输入电子邮箱",
+                "no_verifyCode": "请输入验证码",
+                "no_pwdHint": "请选择密保问题",
+                "no_pwdAns": "密保答案不能为空",
+                "no_curPwd": "请输入当前登录密码",
+                "no_newPwd": "请输入新登录密码",
+                "no_checkNewPwd": "请再次输入新登录密码",
+                "no_curWalletcode": "请输入当前资金密码",
+                "no_newWalletcode": "请输入新资金密码",
+                "no_checkNewWalletcode": "请再次输入新资金密码",
+                "no_match_email": "电子邮箱格式不正确",
+                "no_match_phone": "手机格式不正确",
+                "no_match_pwd": "新密码不一致！",
+                "no_match_newWalletcode": "新资金密码不一致！",
+                "no_match_pwdAns": "密保答案必须为{{min}}-{{max}}个字符",
+                "no_match_walletcode": "资金密码长度{{min}}~{{max}}位"
+            }
+        },
+        "wdMethod": {
+            "bankCard": "银行卡",
+            "numWallet": "数字钱包",
+            "addBank": "添加银行卡",
+            "addUsdt": "添加数字钱包",
+            "name": "收款人姓名",
+            "bankName": "开户银行",
+            "cardNum": "银行卡号",
+            "pwd": "资金密码",
+            "inputCard":"请输入银行卡号",
+            "inputPwd":"请输入资金密码",
+            "inputName":"请输入收款人姓名",
+            "tipName":"为了您的资金能够迅速到账，请确保填写的姓名与银行卡的开户姓名一致",
+            "tipCard":"请务必确认您的银行卡号输入正确",
+            "usdtPact":"钱包协议",
+            "usdtName":"钱包名称",
+            "usdtAdress":"钱包地址",
+            "inputUsdtName":"请输入钱包名称",
+            "inputUsdtAdress":"请输入钱包地址",
+            "tipUsdtAd":"请务必确认您的钱包地址输入正确",
+            "tipS":"收款人姓名请大写，不得超过30个字符",
+            "tipC":"请输入正确的银行卡号",
+            "tipP":"资金密码错误",
+            "bindCardTime": "绑卡时间",
+            "noBankCard": "尚未绑定银行卡",
+            "noDigitalCard": "尚未绑定数字钱包",
+            "tipB":"钱包名称不得超过20个字符"
+        },
+        "transactions": {
+            "title": {
+                "depositRecord": "充值记录",
+                "transferRecord": "转账记录",
+                "withdrawlRecord": "提现记录"
+            },
+            "label": {
+                "date": "时间",
+                "status": "状态"
+            },
+            "tableColumn": {
+                "date": "时间",
+                "status": "状态",
+                "order": "单号",
+                "depositType": "充值方式",
+                "amount": "金额",
+                "transfer_to": "转入钱包",
+                "transfer_from": "转出钱包",
+                "withdrawlCard": "提现银行卡",
+                "note": "备注"
+            },
+            "statusText": {
+                "all": "全部",
+                "success": "成功",
+                "fail": "失败",
+                "pending": "待处理"
+            },
+            "btnText": {
+                "search_now": "立即查询"
+            },
+            "tip": {
+                "title": "温馨提示",
+                "deposit": "充值记录仅保留一周的数据",
+                "transfer": "转账记录仅保留一周的数据",
+                "withdrawl": "提现记录仅保留一周的数据"
+            }
+        },
+        "gameRecords": {},
+        "messages": [
+            "公告",
+            "站内信",
+            "全部已读"
+        ]
+    },
+    "lottery": {
+        "baozu": "包组",
+        "chuanguan": "串关",
+        "tou": "头",
+        "wei": "尾",
+        "touwei": "头尾",
+        "yuxiaxie": "鱼虾蟹",
+        "yidengjiang": "一等奖",
+        "baoerxing": "包二星",
+        "baosanxing": "包三星",
+        "baosixing": "包四星",
+        "chuaner": "串二",
+        "chuansan": "串三",
+        "erma": "二码",
+        "sanma": "三码",
+        "sima": "四码",
+        "danshi": "单式",
+        "fushi": "复式",
+        "description_baozu_baoerxing": "所选号码与任一组开奖号码的后二码相同，顺序一致，视为中奖（可重复派奖）。",
+        "description_baozu_baosanxing": "所选号码与特等奖至六等奖任一组开奖号码的后三码相同，顺序一致，视为中奖（可重复派奖）。",
+        "description_baozu_baosixing": "所选号码与特等奖至五等奖任一组开奖号码的后四码相同，顺序一致，视为中奖（可重复派奖）。",
+        "description_chuanguan_chuaner": "所选的2组号码与任2个开奖号码的后二码相同，顺序一致，视为中奖。",
+        "description_chuanguan_chuansan": "所选的3组号码与任3个开奖号码的后二码相同，顺序一致，视为中奖。",
+        "description_tou_erma": "所选号码与七等奖的任一组开奖号码相同，顺序一致，视为中奖（可重复派奖）。",
+        "description_wei_erma": "所选号码与特等奖开奖号码的后二码相同，顺序一致，视为中奖。",
+        "description_wei_sanma": "所选号码与特等奖开奖号码的后三码相同，顺序一致，视为中奖。",
+        "description_wei_sima": "所选号码与特等奖开奖号码的后四码相同，顺序一致，视为中奖。",
+        "description_touwei_erma": "所选号码与七等奖或特等奖开奖号码的后二码相同，顺序一致，视为中奖（可重复派奖）。",
+        "description_yuxiaxie_yuxiaxie": "投注特等奖开奖结果最后一位数的代表组合。 开奖结果在投注组合内则中奖。 鱼 = 1,2,3 大虾 = 4,5,6 螃蟹 = 7,8,9 ；特等奖开奖结果后1位数为0，则都不中奖。",
+        "description_yidengjiang_erma": "所选号码与一等奖开奖号码的后二码相同，顺序一致，视为中奖。",
+        "peilv": ["赔率", "/"],
+        "qianwei": "千位",
+        "baiwei": "百位",
+        "shiwei": "十位",
+        "gewei": "个位",
+        "quan": "全",
+        "da": "大",
+        "xiao": "小",
+        "ji": "奇",
+        "ou": "偶",
+        "qing": "清",
+        "beishu": "倍数",
+        "touzhumoshi": "投注模式",
+        "placeholder_baozu_baoerxing_danshi": "请输入您的投注号码，号码与号码之间用;分隔开，例如：10;23",
+        "placeholder_baozu_baosanxing_danshi": "请输入您的投注号码，号码与号码之间用;分隔开，例如：110;203",
+        "placeholder_baozu_baosixing_danshi": "请输入您的投注号码，号码与号码之间用;分隔开，例如：1910;5203",
+        "placeholder_chuanguan_chuaner_danshi": "请输入您的投注号码，号码与号码之间用&串联，号码组之间用;分隔开，例如：12&18;16&25",
+        "placeholder_chuanguan_chuansan_danshi": "请输入您的投注号码，号码与号码之间用&串联，号码组之间用;分隔开，例如：12&18&20;16&25&33",
+        "placeholder_tou_erma_danshi": "请输入您的投注号码，号码与号码之间用;分隔开，例如：10;23",
+        "placeholder_wei_erma_danshi": "请输入您的投注号码，号码与号码之间用;分隔开，例如：10;23",
+        "placeholder_wei_sanma_danshi": "请输入您的投注号码，号码与号码之间用;分隔开，例如：110;203",
+        "placeholder_wei_sima_danshi": "请输入您的投注号码，号码与号码之间用;分隔开，例如：1910;5203",
+        "placeholder_touwei_erma_danshi": "请输入您的投注号码，号码与号码之间用;分隔开，例如：10;23",
+        "placeholder_yidengjiang_erma_danshi": "请输入您的投注号码，号码与号码之间用;分隔开，例如：10;23",
+        "haoma_jine": "已选择：{{n1}}个号码，下注金额：{{n2}} VND",
+        "yixuanze": "已选择",
+        "gehaoma": "个号码",
+        "xiazhujine": "下注金额",
+        "kuaisutouzhu": "快速投注",
+        "tianjiaxuanhao": "添加选号",
+        "zongtouzhue": "总投注额",
+        "lijitouzhu": "立即投注",
+        "zhuihao": "追号",
+        "xuanhaolan": "选号篮",
+        "qingkongxuanhaolan": "清空选号篮",
+        "xuhao": "序号",
+        "wanfamingcheng": "玩法名称",
+        "touzhuzhushu": "投注注数",
+        "zongtouzhushu": "总投注数",
+        "zushu": "组数",
+        "touzhujine": "投注金额",
+        "danzhujiangjin": "单注奖金",
+        "touzhujilu": "投注记录",
+        "qihao": "期号",
+        "kaijianghaoma": "开奖号码",
+        "touzhushijian": "投注时间",
+        "zhuangtai": "状态",
+        "qishibeishu": "起始倍数",
+        "zhuihaoqishu": "追号期数",
+        "xuanze": "选择",
+        "qishu": "期数",
+        "kaijiangshijian": "开奖时间",
+        "zhuihaoqishuhejine": "共追{{n1}}期，共计{{n2}}元",
+        "zhongjiangjiting": "中奖即停",
+        "shengchengzhuihaojihua": "生成追号计划",
+        "touzhuneirong": "投注内容",
+        "tedengjiang": "特等奖",
+        "erdengjiang": "二等奖",
+        "sandengjiang": "三等奖",
+        "sidengjiang": "四等奖",
+        "wudengjiang": "五等奖",
+        "liudengjiang": "六等奖",
+        "qidengjiang": "七等奖",
+        "badengjiang": "八等奖"
+    },
+    "homepage": {
+        "game": "游戏"
+    },
+    "live": {
+        "aglive": "是以高技术标准创建的在线赌场，可以给玩家带来最好的体验， 像直接跟荷官玩一样的感觉",
+        "sexylive": "性感的女神正等着您，尝试与女孩们玩将为玩家带来从未有过的充满活力和刺激的体验。",
+        "ebetlive": "带有现代在线赌场技术的全新区块链百家乐Blockchain Baccarat游戏。 EBET将玩家联合在一起，创造直接玩的感觉。",
+        "cq9live": "针对东方文化设计的游戏，包含各种奖励功能，高胜率并可在许多不同平台上支持玩家。",
+        "startgame": "进入游戏"
+    },
+    "sport": {
+        "sbobetsport": "各种类型的体育博彩，诱人的赔率，快速的赌注处理，最佳的支持界面，让玩可以家轻松体验",
+        "sabasport": "亚洲头等的体育平台。 SABA（体育）在一个赛季中的每月可以接收20,000个事件。专业的团队，处理快，诱人的赔率。",
+        "imsport": "从东南亚最大的在线游戏平台上开发的。以20多年的运营，信誉，稳定性，安全性，IM（运动）可以保证为客户提供最佳体验",
+        "startgame": "进入游戏"
+    },
+    "esport": {
+        "sabasports": "拥有很高的技术背景，拥有世界各地主要电子体育比赛的最佳赌注，它将为玩家带来最丰富的体验",
+        "imsports": "带给玩家丰富多彩的电子竞技世界，包括几乎您所喜爱的运动大型赛事。 IM（电子竞技）可播放实时高清流媒体质量，为玩家带来绝佳的体验。",
+        "startgame": "进入游戏"
+    },
+    "slot": {
+        "nav": {
+            "all": "全部",
+            "ptdianzi": "PT电子",
+            "swdianzi": "SW电子",
+            "cq9dianzi": "CQ9电子",
+            "ppdianzi": "PP电子",
+            "buyudianzi": "GG捕鱼",
+            "gpi": "GPI游戏"
+        },
+        "menu": {
+            "all": "全部",
+            "tuijian": "推荐",
+            "shoucang": "收藏"
+        },
+        "placeholder": "请输入游戏名称",
+        "modal": {
+            "title": "tìm kêt quả",
+            "content": "Xin lỗi, không tìm thấy kết quả nào.<br />Hãy thử các trò chơi có liên quan mà chúng tôi đề xuất cho bạn!"
+        }
+    },
+    "helper": {
+        "title": "常见问题",
+        "nav": {
+            "question": {
+                "title": "常见问题",
+                "content": {
+                    "Account": "账户问题",
+                    "TradeQuestion": "充值问题",
+                    "LotteryQuestion": "彩票问题",
+                    "LotteryRule": "彩票规则"
+                }
+            },
+            "aboutus": {
+                "title": "关于我们",
+                "content": {
+                    "Userment": "用户协议",
+                    "GameRespon": "博彩责任",
+                    "Privacy": "隐私政策",
+                    "Concatus": "联系我们"
+                }
+            }
+        },
+        "content": {
+            "Account":  "新会员注册<br /><br />1.会员需要先创建一个真实货币帐户并存款，然后才能玩真实货币。请点击创建真实货币帐户。<br /><br />2.会员需要在帐户创建过程中提供其全名，并且需要与护照或身份证上的姓名完全相同。<br /><br />3.会员在创建帐户之前，请选择首选货币。成功创建帐户后，会员无法更改币种。<br /><br />4.本站是唯一有权代表提供和任命不同类型的银行来运营，接收或提供资金的银行。<br /><br />5.会员只能在该网站上注册一个帐户。如果您开设多个帐户，则您已注册的所有帐户都可能被锁定或关闭 ，余额和奖金可能会从被锁定或关闭的会员帐户中没收。本站保留所有帐户或单个帐户被锁定或关闭的权利。<br /><br />6.您必须年满18岁才能创建帐户。我们保留向会员索取年龄证明并暂停帐户直到帐户经过充分验证的权利。<br /><br />7.禁止从菲律宾，美国，新加坡，台湾，香港，英国，法国，瓜德罗普岛，圭亚那，马提尼克和留尼旺的任何地区或国家访问创建帐户和访问网站（包括本站备份页面或所有其他链接，下载应用程序，移动应用程序）， 所有与非法投注有关的交易将被取消，您的帐户与其他您相关的账号将被终止停用。<br /><br />8.确保法律适用于您，并且不禁止您使用和访问网站及其中包含的信息，下载、安装软件或使用，这是您的全部责任。<br /><br />9.您了解参加玩游戏意味着了解并同意存入您的投注帐户的资金损失的风险。<br /><br />10.会员不得参与任何欺诈，修改，串通（例如在参与过程中来回转账）或与您参与任何其他非法活动游戏，产品和应用程序，并且不使用任何支持软件（例如机器人，工程技术或设备软件/硬件）来协助您参与任何游戏。<br /><br />帐户信息<br /><br />1.如果您的用户名和密码输入正确（成功登录），或者未经授权或代表您，则所有投注将被保留。<br /><br />2.如果您认为其他人知道您的用户名和密码，请登录您的帐户并请求立即更改密码。<br /><br />3.您可以在自己的帐户中下注，并且不得有任何其他代表。<br /><br />4.您不拥有菲律宾，美国，台湾，香港和新加坡国籍。<br /><br />5.您在系统中提供和创建的所有信息都是真实，完整和正确的，如果信息有任何更改，您应立即通知本站。<br /><br />6.对于从本站获得的任何奖金，您有责任根据相关法律报告并缴纳任何适用的税款。<br /><br />暂停和帐户锁定<br /><br />1.本站保留关闭或暂停您帐户的权利，而不会发出任何通知和原因，在下列情况下，这可能会导致您的帐户余额和奖金被取消：<br /><br />（a）多个投注帐户（相同信息/多个帐户）或故意充当促销欺诈。<br />（b）本站认为您已将本网站，下载的软件和应用程序用于欺诈目的或用于非法目的。<br />（c）本站认为您不公平地使用本网站，下载软件，应用程序和银行方式，故意作弊，制造风险以及与本站相关的任何链接。<br />（d）如果本站由于上述（a）至（c）的任何原因而关闭或暂停，则您应对任何索赔，损失和支出负责。 本站及其所有相关链接的其他产生，您必须赔偿本站。<br />（e）本站保留扣留或减去所有余额的权利，包括存款或应付款，奖金，奖励积分。<br /><br />2.本站拥有绝对的唯一权利，可以继续、暂停或关闭所有本站有资格，所有其他相关账户上的所有投注，奖金和奖金将被没收，恕不另行通知。<br />",
+            "TradeQuestion": "充值<br /><br />1.请注意，我们目前仅提供VND货币。成功注册帐户后，您将无法更改币种。<br /><br />2.您的存入金需要进行投注并遵守本站的规定，然后才能提款。如果提款前存款金额未达到投注比例规定，并且您在促销期间收到额外奖金，本站可能会向您收取处理提款的费用，取款金额可能相应地减少。<br /><br />3.如果提款金额未用于下注或未达到提款之前的要求，系统将拒绝您的提款请求。<br /><br />4.您可以在存款成功后，转入您想玩的第三方游戏，可以查看有关如何存入和转移资金的更多详细信息。请注意，您所在的国家/地区可能无法使用某些银行，可以咨询在线客服以获取更多详细信息。<br /><br />5.将款项转入您的帐户可能会导致银行，金融机构和第三方付款服务提供商收取费用。您同意承担存款交易费或另有规定，并在将钱存入您的帐户时通知本站交易费用由本站承担。可以咨询在线客服以获取更多详细信息。<br /><br />6.您只应将钱存入您的帐户，以在网站上进行投注。如果我们有充分的理由相信您违反了本站的使用条款，或者认为您在网络上有欺诈行为，我们将暂停并关闭您的帐户，本站或其他替代链接。在这种情况下，我们可能会从您的帐户中索取或取消奖金，促销，奖励积分和交易费用。<br /><br />7.如果由于人为错误，错误的技术或系统错误而导致您转移的金额错误地增加了，存款第三方错误或交易订单重复，则本站会索取和扣除帐户中错误更新的货币值。当您在帐户中使用或提取的余额不属于您时，本站保留扣除您欠本站此类债务的权利。<br /><br />提款<br /><br />1.仅当本站帐户中全名与银行帐户持有人匹配时，才能下达提款订单。<br /><br />2.如果可能的话，所有提款请求都应支付到您之前进行存款的银行帐户，除非本站另有说明并通知。3.您需要登录到您的帐户并在网站上选择提款。提款单的确认取决于您当时的余额。<br /><br />4.要求的金额将在确认后从您的帐户中扣除。如果订单已处理且处理中的金额已更新为您的银行帐户或首选方式，则不能取消任何提款。<br /><br />5.如果我们需要支付您的附加费，我们保留取消，扣除和收取任何相关费用的权利。<br /><br />6.本站保留要求确认并提供有效文件信息的权利，以进行提款申请的验证和确认。<br /><br />7.提款可能会有额外费用的收取，但本站不向您收取任何提款费，您应与您的银行联系以获取有关应付费用的建议。<br /><br />8.您有责任出于税收目的报告您的得失。<br /><br />",
+            "LotteryQuestion": "本节将涵盖一般规则和游戏产品，尤其是单独的产品规则。<br /><br />如果您的投注出现任何错误，本站将不承担责任，并拥有绝对的酌处权决定无效，取消和更正错误，包括：彩票<br /><br />1.本站对被认为、据称已与本网站或其内容产生或相关的任何损害或损失不承担任何责任，包括但不限于任何时间，维护，服务器中断，事件、市场开放和关闭延迟，由于Internet连接导致的信息中断，内容的错误和遗漏或任何技术中断游戏。<br /><br />2.如果在市场关闭或交易暂停时系统继续接受投注。<br /><br />3.如果结果不正确，则所有投注均无效。<br /><br />4.错误的赔率，本站会立即纠正已明确识别的错误或问题，我们将立即暂停并解决，并允许任何取消。<br /><br />5.在非主流市场进行的投注将作废。<br /><br />6.如果您在下注并确认下注时由于系统错误而中断或由于计算机系统而断开连接，则该注单将终止并恢复。您可以在“我的帐户”页面上看到成功下注的结果。<br /><br />7.市场开始后的投注将被取消，您的本金将退还。<br /><br />体育博彩<br /><br />1.没有发布正确的赔率/让分/赔率/其他所有投注。<br /><br />2.当市场关闭或赛事/比赛/市场关闭时，系统继续接受投注。<br /><br />3.错误的结果和付款。<br /><br />4.比赛开始前，比赛中下注之前或赛事之后的错误价格。本站将努力立即纠正发现的错误，所有赌注将在本站上处理和解决，并将自行决定选择取消取消的赌注。<br /><br />5.不正确的比赛时间表，参赛者的姓名和引用的名称，球队，场地，在赛事中的投注将被视为无效。<br /><br />6.如果您下注并确认后，由于通信故障或无法继续使用的计算机系统而中断，赌注将终止，恢复设置的系统可以在“我的帐户”页面上查看赌注的结果。<br /><br />7.赛事开始后才接受较迟的投注，所有投注将按以下方式结算：如果一项体育赛事处于允许下注的状态，则下注时的赔率将发生变化（如果赔率少于1/1000，则赔率将被视为无效）。减去已知结果，此案例将无效。<br />当体育赛事处于现场模式时，如果团队或球员之间没有相等的平衡（例如得分，进球等），则赔率将被中止。如果在您下注时团队或球员与比赛之间出现进球，则此类下注将无效。结果是已知的，在这种情况下，投注无效。<br /><br />赌场<br /><br />1.网上赌场<br />a.本站对因失去互联网连接，服务器中断，视频流缓慢，互联网连接错误，由于任何原因引起的错误而造成的任何损失不承担任何责任。<br />b.如果您的互联网连接服务缓慢，被互联网服务提供商中断以及计算机、在线浏览器、视频问题缓慢，本站不承担任何责任。<br />c.如果由于系统或人为原因导致结果不正确，投注票将被退还。<br />d.如果您在下注并确认下注时由于系统错误而中断或由于计算机系统而断开连接，则该注单将终止并恢复。您可以在“我的帐户”页面上看到成功下注的结果。<br />e.如果在维护期间维护了娱乐场系统，则投注将被取消。<br /><br />2.随机数游戏（RNG）<br />a.本站对RNG中发生的任何错误概不负责，包括支出，任何游戏或产品中包含或使用的头奖（角子机）奖品。<br />b.如果您有意或无意断开电源线，关闭浏览器，关闭游戏或下载的应用程序，注销帐户或断开互联网电缆的连接，您的投注将被暂停。由于您的电信错误或连接延迟，来宾在比赛前或比赛中出来，并且游戏处于开始位置或宣布结果之前，这是确定的赌注。确认的投注将在正常恢复系统上发布后将终止，您可以在“我的帐户”页面上参考成功的投注结果。<br />c.如果您的Internet服务缓慢或中断，或者您的计算机、浏览器与游戏断开连接，本站不承担任何责任。<br />d.如果系统在维护期间为RNG，则投注将被取消。<br />e.在RNG中使用机器人、机器系统、软件或程序进行游戏包括真钱游戏和试玩游戏。<br />",
+            "LotteryRule": {
+                "introduce": "Giới Thiệu<br /><br />Số Đề là trò được chơi bằng cách khớp các số dựa trên 8 bộ kết quả. Người chơi có thể đặt vào các loại cược được giải thích bên dưới.<br /><br />Kết quả sẽ được lấy từ kết quả chính thức của thị trường xổ số Việt Nam (xem Bảng thông tin Số Đề để biết danh sách các thị trường)<br /><br />Ban tổ chức có quyền hủy bỏ kết quả trong các trường hợp sau:<br /><br />1.Lễ quay số bị hoãn trong thời gian dài<br /><br />2.Kết quả chính thức bị công bố trước khi hệ thống đóng cửa để đặt cược<br /><br />Miền Bắc<br /><br />Cơ Cấu Giải Thưởng<br /><br />",
+                "lottery": [
+                    {
+                        "title": "",
+                        "class": "my-list1",
+                        "content": [
+                            {"award": "Giải thưởng","number": ["Số lượng giải","Trùng"]},
+                            { "award": "Giải Đặc Biệt","number": ["1","5 số"] },
+                            { "award": "Giải Nhất","number": ["1","5 số"] },
+                            { "award": "Giải Nhì","number": ["2","5 số"] },
+                            { "award": "Giải Ba","number": ["6","5 số"] },
+                            { "award": "Giải Tư","number": ["4","4 số"] },
+                            { "award": "Giải Năm","number": ["6","4 số"] },
+                            { "award": "Giải Sáu","number": ["3","3 số"] },
+                            { "award": "Giải Bảy","number": ["4","2 số"] },
+                            { "award": "Tổng cộng","number": ["27 giải mỗi đợt",""] }
+                        ]
+                    },
+                    {
+                        "class": "my-list2",
+                        "title": "Kết Quả Mẫu Cho Xổ Số (Miền Bắc )",
+                        "content": [
+                            {"award": "Đặc biệt","number":["55560",""]},
+                            {"award": "Nhất","number": ["06269",""]},
+                            {"award": "Nhì","number": ["96219","06098"]},
+                            {"award": "Ba","number": ["43974","81569","16301","44081","80187","47011"]},
+                            {"award": "Tư","number": ["6064","1552","0512","7749"]},
+                            {"award": "Năm","number": ["5541","8606","3301","8505","4014","3207"]},
+                            {"award": "Sáu","number": ["896","212","638"]},
+                            {"award": "Bảy","number": ["98","89","67","00"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Các Loại Cược",
+                        "title": "2 Số",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 2 chữ số từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng 2 chữ số cuối trong lô 27 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [19] Kết quả: [96219]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "3 Số",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 3 chữ số từ 000-999"]},
+                            {"number": ["Trúng giải","Trùng 3 chữ số cuối trong lô 23 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [219] Kết quả: [96219]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "4 Số",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 4 chữ số từ 0000-9999"]},
+                            {"number": ["Trúng giải","Trùng 4 chữ số cuối trong lô 20 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [6219] Kết quả: [96219]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "5 Số",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 5 chữ số từ 00000-99999"]},
+                            {"number": ["Trúng giải","Trùng 5 chữ số cuối trong lô 10 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [96219] Kết quả: [96219]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "3 Càng",
+                        "title": "3 Số Cuối",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 3 chữ số từ 000-999"]},
+                            {"number": ["Trúng giải","Trùng 3 số cuối của giải đặc biệt"]},
+                            {"number": ["Ví dụ","Vé cược: [560] Kết quả: Giải đặc biệt [55560]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Đánh Đề",
+                        "title": "Cược Giải 7",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 2 chữ số từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng 2 chữ số ở 4 giải 7."]},
+                            {"number": ["Ví dụ","Vé cược: [89] Kết quả: Giải 7 [98 89 67 00]."]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Đề",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 2 chữ số từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng 2 số cuối của giải đặc biệt"]},
+                            {"number": ["Ví dụ","Vé cược: [60] Kết quả: Giải đặc biệt [55560]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Hàng Chục & Hàng Đơn Vị",
+                        "title": "Hàng Chục",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 1 số từ 0-9"]},
+                            {"number": ["Trúng giải","Trùng chữ số hàng chục của giải đặc biệt (*** x *)"]},
+                            {"number": ["Ví dụ","Vé cược: [6] Kết quả: Giải đặc biệt [555 6 0]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Hàng Đơn Vị",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 1 số từ 0-9"]},
+                            {"number": ["Trúng giải","Trùng với chữ số hàng đơn vị ở giải đặc biệt (**** x )"]},
+                            {"number": ["Ví dụ","Vé cược: [0] Kết quả: Giải đặc biệt [5556 0 ]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Xiên",
+                        "title": "Xiên 2",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 2 số từ 00-99"]},
+                            {"number": ["Trúng giải","Tất cả 2 số đã chọn này phải trùng với 2 số cuối ở bất kỳ các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [87 | 39] Kết quả: [ 81787 | 639 ]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Xiên 3",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 3 số từ 00-99"]},
+                            {"number": ["Trúng giải","Tất cả 3 số đã chọn này phải trùng với 2 số cuối ở bất kỳ các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [87 | 39 | 11] Kết quả: [ 81787 | 639 | 47011]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Xiên 4",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 4 số từ 00-99"]},
+                            {"number": ["Trúng giải","Tất cả 4 số đã chọn này phải trùng với 2 số cuối ở bất kỳ các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [87 | 39 | 11 | 19] Kết quả: [ 81787 | 639 | 47011 | 96219 ]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Lô Trượt",
+                        "title": "Lô Trượt Xiên 4",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 4 số từ 00-99"]},
+                            {"number": ["Trúng giải","Trượt xiên 4 của 2 chữ số cuối trong lô 27 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [78 | 99 | 01 | 88 ] Những số 78 , 99 , 01 hay 88 không xuất hiện ở bất cứ giải nào"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Lô Trượt Xiên 8",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 8 số từ 00-99"]},
+                            {"number": ["Trúng giải","Trượt xiên 8 của 2 chữ số cuối trong lô 27 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [78 | 99 | 01 | 88 | 44 | 66 | 40 | 04 | 24 ] Những số này không xuất hiện ở 2 chữ số cuối bất cứ giải nào"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Lô Trượt Xiên 10",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 10 số từ 00-99"]},
+                            {"number": ["Trúng giải","Trượt xiên 10 của 2 chữ số cuối trong lô 27 giải"]},
+                            {"number": ["Ví dụ","Bet: [78 | 99 | 01 | 88 | 44 | 66 | 40 | 04 | 24 | 06 | 60] Những số này không xuất hiện ở 2 chữ số cuối bất cứ giải nào"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list1",
+                        "tit": "Miền Trung<br />Cơ Cấu Giải Thưởng",
+                        "content": [
+                            {"award": "Giải thưởng","number": ["Số lượng giải","Trùng"]},
+                            { "award": "Giải Đặc Biệt","number": ["1","6 số"] },
+                            { "award": "Giải Nhất","number": ["1","5 số"] },
+                            { "award": "Giải Nhì","number": ["1","5 số"] },
+                            { "award": "Giải Ba","number": ["2","5 số"] },
+                            { "award": "Giải Tư","number": ["7","5 số"] },
+                            { "award": "Giải Năm","number": ["1","4 số"] },
+                            { "award": "Giải Sáu","number": ["3","4 số"] },
+                            { "award": "Giải Bảy","number": ["1","3 số"] },
+                            { "award": "Giải Tám","number": ["1","2 số"] },
+                            { "award": "Tổng cộng","number": ["18 giải mỗi đợt",""] }
+                        ]
+                    },
+                    {
+                        "class": "my-list2",
+                        "title": "Kết quả mẫu cho xổ số (Miền Trung)",
+                        "content": [
+                            {"award": "Nhất","number": ["53875",""]},
+                            {"award": "Nhì","number": ["72007",""]},
+                            {"award": "Ba","number": ["73718","34768"]},
+                            {"award": "Tư","number": ["58575","95796","51146","45714","26181","26727","69717"]},
+                            {"award": "Năm","number": ["8677",""]},
+                            {"award": "Sáu","number": ["7819","8159","1961"]},
+                            {"award": "Bảy","number": ["467",""]},
+                            {"award": "Tám","number": ["54",""]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Các Loại Cược<br />Bao Lô",
+                        "title": "2 Số",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng 2 chữ số cuối trong lô 18 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [17] Kết quả: [69717]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "3 Số",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 000-999"]},
+                            {"number": ["Trúng giải","Trùng 3 chữ số cuối trong lô 17 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [717] Kết quả: [69717]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "4 Số",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 0000-9999"]},
+                            {"number": ["Trúng giải","Trùng 4 chữ số cuối trong lô 16 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [9717] Kết quả: [69717]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "5 Số",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 00000-99999"]},
+                            {"number": ["Trúng giải","Trùng 5 chữ số cuối trong lô 12 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [69717] Kết quả: [69717]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "3 Càng",
+                        "title": "3 Càng Đầu",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 000-999"]},
+                            {"number": ["Trúng giải","Trùng số chính xác với giải 7"]},
+                            {"number": ["Ví dụ","Vé cược: [467] Kết quả: Giải 7 [467]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "3 Càng Đuôi",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 000-999"]},
+                            {"number": ["Trúng giải","Trùng 3 chữ số cuối của giải đặc biệt"]},
+                            {"number": ["Ví dụ","Vé cược: [325] Kết quả: Giải đặc biệt [097325]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "3 Càng Đầu - Đuôi",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 000 - 999."]},
+                            {"number": ["Trúng giải","Trùng số chính xác của giải 7 hoặc đánh 3 số cuối giải đặc biệt. Thắng gấp đôi nếu số xuất hiện ở 2 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [325] Kết quả: Giải đặc biệt [097325] Kết quả: Giải 7 [325] - Thắng gấp đôi"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Đánh Đề",
+                        "title": "Đề Đầu",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng số chính xác với giải 8"]},
+                            {"number": ["Ví dụ","Vé cược: [54] Kết quả: Giải 8 [54]."]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Đề Đầu",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng 2 số cuối giải đặc biệt"]},
+                            {"number": ["Ví dụ","Vé cược: [35] Kết quả: Giải đặc biệt [097325]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Hàng Chục & Hàng Đơn Vị",
+                        "title": "Hàng Chục",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 0-9"]},
+                            {"number": ["Trúng giải","Trùng chữ số thứ 10 của giải đặc biệt (**** x *)"]},
+                            {"number": ["Ví dụ","Vé cược: [2] Kết quả: Giải đặc biệt [0973 2 5]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Hàng Đơn Vị",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 0-9"]},
+                            {"number": ["Trúng giải","Trùng chữ số cuối của giải đặc biệt (***** x )"]},
+                            {"number": ["Ví dụ","Vé cược: [5] Kết quả: Giải đặc biệt [09732 5 ]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit":"Hàng CXiênhục & Hàng Đơn Vị",
+                        "title": "Xiên 2",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 2 từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng 2 số cuối ở tất cả các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [67 | 19] Kết quả: [ 7819 | 467 ]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Xiên 3",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 3 số từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng 2 số ở tất cả các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [77 | 19 | 07] Kết quả: [ 7819 | 467 | 72007]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Xiên 4",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 4 số từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng 2 số ở tất cả các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [77 | 19 | 07 | 25] Kết quả: [ 8677| 467 | 72007| 097325]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Lô Trượt",
+                        "title": "Lô Trượt Xiên 4",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 4 số từ 00-99"]},
+                            {"number": ["Trúng giải","Đánh 2 chữ số không trùng với 2 số cuối ở tất cả các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [78 | 99 | 01 | 88 ] Các số 78 , 99 , 01 hay 88 không trùng với bất cứ 2 số cuối của giải nào"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Lô Trượt Xiên 8",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 8 số từ 00-99"]},
+                            {"number": ["Trúng giải","Đánh 2 chữ số không trùng với 2 số cuối ở tất cả các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [78 | 99 | 01 | 88 | 44 | 66 | 40 | 04 | 24 ] Các số này không trùng với bất cứ 2 số cuối của giải nào"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Lô Trượt Xiên 10",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 10 số từ 00-99"]},
+                            {"number": ["Trúng giải","Đánh 2 chữ số không trùng với 2 số cuối ở tất cả các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [78 | 99 | 01 | 88 | 44 | 66 | 40 | 04 | 24 | 06 | 60] Các số này không trùng với bất cứ 2 số cuối của giải nào"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list1",
+                        "tit": "Miền Nam<br />Cơ Cấu Giải Thưởng",
+                        "content": [
+                            {"award": "Giải thưởng","number": ["Số lượng giải","Trùng"]},
+                            { "award": "Giải Đặt Biệt","number": ["1","6 số"] },
+                            { "award": "Giải Nhất","number": ["1","5 số"] },
+                            { "award": "Giải Nhì","number": ["1","5 số"] },
+                            { "award": "Giải Ba","number": ["2","5 số"] },
+                            { "award": "Giải Tư","number": ["7","5 số"] },
+                            { "award": "Giải Năm","number": ["1","4 số"] },
+                            { "award": "Giải Sáu","number": ["3","4 số"] },
+                            { "award": "Giải Bảy","number": ["1","3 số"] },
+                            { "award": "Giải Tám","number": ["1","2 số"] },
+                            { "award": "Tổng cộng","number": ["18 giải mỗi đợt",""] }
+                        ]
+                    },
+                    {
+                        "class": "my-list2",
+                        "title": "Kết quả mẫu cho xổ số (Miền Nam)",
+                        "content": [
+                            {"award": "Đặc biệt","number": ["097325",""]},
+                            {"award": "Nhất","number": ["53875",""]},
+                            {"award": "Nhì","number": ["72007",""]},
+                            {"award": "Ba","number": ["73718","34768"]},
+                            {"award": "Tư","number": ["58575","95796","51146","45714","26181","26727","69717"]},
+                            {"award": "Năm","number": ["8677",""]},
+                            {"award": "Sáu","number": ["7819","8159","1961"]},
+                            {"award": "Bảy","number": ["467",""]},
+                            {"award": "Tám","number": ["54",""]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Các Loại Cược<br />Bao Lô",
+                        "title": "2 Số",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng 2 chữ số cuối trong lô 18 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [17] Kết quả: [69717]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "3 Số",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 000-999"]},
+                            {"number": ["Trúng giải","Trùng 3 chữ số cuối trong lô 17 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [717] Kết quả: [69717]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "4 Số",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 0000-9999"]},
+                            {"number": ["Trúng giải","Trùng 4 chữ số cuối trong lô 16 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [9717] Kết quả: [69717]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "5 Số",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 00000-99999"]},
+                            {"number": ["Trúng giải","Trùng 5 chữ số cuối trong lô 12 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [69717] Kết quả: [69717]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "3 Càng",
+                        "title": "3 Càng Đầu",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 000-999"]},
+                            {"number": ["Trúng giải","Trùng số chính xác với giải 7"]},
+                            {"number": ["Ví dụ","Vé cược: [467] Kết quả: Giải 7 [467]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "3 Càng Đuôi",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 000-999"]},
+                            {"number": ["Trúng giải","Trùng 3 chữ số cuối của giải đặc biệt"]},
+                            {"number": ["Ví dụ","Vé cược: [325] Kết quả: Giải đặc biệt [097325]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "3 Càng Đầu - Đuôi",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 000 - 999."]},
+                            {"number": ["Trúng giải","Trùng số chính xác của giải 7 hoặc đánh 3 số cuối giải đặc biệt. Thắng gấp đôi nếu số xuất hiện ở 2 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [325] Kết quả: Giải đặc biệt [097325] Kết quả: Giải 7 [325] - Thắng gấp đôi"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Đánh Đề",
+                        "title": "Đề Đầu",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng số chính xác với giải 8"]},
+                            {"number": ["Ví dụ","Vé cược: [54] Kết quả: Giải 8 [54]."]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Đuôi Đặc Biệt",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng 2 số cuối giải đặc biệt"]},
+                            {"number": ["Ví dụ","Vé cược: [35] Kết quả: Giải đặc biệt [097325]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Đề Đầu Và Đuôi Đặc Biệt",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 2 số từ 00 - 99."]},
+                            {"number": ["Trúng giải","Trùng số chính xác của giải 8 hoặc đánh 2 số cuối giải đặc biệt. Thắng gấp đôi nếu số xuất hiện ở 2 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [25] Kết quả: Giải đặc biệt [097325] Kết quả: Giải 8 [25] - Thắng gấp đôi"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Đề Đầu Và Đuôi Đặc Biệt",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 2 số từ 00 - 99."]},
+                            {"number": ["Trúng giải","Trùng số chính xác của giải 8 hoặc đánh 2 số cuối giải đặc biệt. Thắng gấp đôi nếu số xuất hiện ở 2 giải"]},
+                            {"number": ["Ví dụ","Vé cược: [25] Kết quả: Giải đặc biệt [097325] Kết quả: Giải 8 [25] - Thắng gấp đôi"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Hàng Chục & Hàng Đơn Vị",
+                        "title": "Hàng Chục",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 0-9"]},
+                            {"number": ["Trúng giải","Trùng chữ số thứ 10 của giải đặc biệt (**** x *)"]},
+                            {"number": ["Ví dụ","Vé cược: [2] Kết quả: Giải đặc biệt [0973 2 5]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Hàng Đơn Vị",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn từ 0-9"]},
+                            {"number": ["Trúng giải","Trùng chữ số cuối của giải đặc biệt (***** x )"]},
+                            {"number": ["Ví dụ","Vé cược: [5] Kết quả: Giải đặc biệt [09732 5 ]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Xiên",
+                        "title": "Xiên 2",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 2 số từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng 2 số cuối ở tất cả các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [67 | 19] Kết quả: [ 7819 | 467 ]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Xiên 3",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 3 số từ 00 - 99."]},
+                            {"number": ["Trúng giải","Trùng 3 số cuối ở tất cả các giải."]},
+                            {"number": ["Ví dụ","Trùng 3 số cuối ở tất cả các giải."]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Xiên 4",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 4 số từ 00-99"]},
+                            {"number": ["Trúng giải","Trùng 2 số ở tất cả các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [77 | 19 | 07 | 25] Kết quả: [ 8677| 467 | 72007| 097325]"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "tit": "Lô Trượt",
+                        "title": "Lô Trượt Xiên 4",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 4 số từ 00-99"]},
+                            {"number": ["Trúng giải","Đánh 2 chữ số không trùng với 2 số cuối ở tất cả các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [78 | 99 | 01 | 88 ] Các số 78 , 99 , 01 hay 88 không trùng với bất cứ 2 số cuối của giải nào"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Lô Trượt Xiên 8",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 8 số từ 00-99"]},
+                            {"number": ["Trúng giải","Đánh 2 chữ số không trùng với 2 số cuối ở tất cả các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [78 | 99 | 01 | 88 | 44 | 66 | 40 | 04 | 24 ] Các số này không trùng với bất cứ 2 số cuối của giải nào"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list3",
+                        "title": "Lô Trượt Xiên 10",
+                        "content": [
+                            {"number": ["Cách chơi","Chọn 10 số từ 00-99"]},
+                            {"number": ["Trúng giải","Đánh 2 chữ số không trùng với 2 số cuối ở tất cả các giải"]},
+                            {"number": ["Ví dụ","Vé cược: [78 | 99 | 01 | 88 | 44 | 66 | 40 | 04 | 24 | 06 | 60] Các số này không trùng với bất cứ 2 số cuối của giải nào"]}
+                        ]
+                    },
+                    {
+                        "class": "my-list1 my-list4",
+                        "tit": "Bảng Thông Tin Số Đề<br />Thị Trường Nhanh",
+                        "content": [
+                            {"award": "Thị trường","number": ["Tần số quay","Thời gian bắt đầu","Thời gian kết thúc"]},
+                            { "award": "Đa Quốc Gia","number": ["120 giây","00:00:00","23:59"] },
+                            { "award": "Xổ Số Siêu Tốc","number": ["120 giây","00:01:00","23:59"] }
+                        ]
+                    },
+                    {
+                        "class": "my-list5",
+                        "title": "Thị Trường Chính",
+                        "content": [
+                            {"number": ["","Miền Bắc","Miền Trung","Miền Nam"]},
+                            {"number": ["","Giờ Mở Cược","Giờ Đóng Cược","Giờ Mở Cược ","Giờ Đóng Cược","Giờ Mở Cược","Giờ Đóng Cược"]},
+                            {"award": "Thời Gian Xổ Chính Thức (GMT+7)","number": ["","18:15:00","","17:15:00","","16:10:00"]},
+                            {"award": "Thời Gian Xổ Chính Thức (GMT+8)","number": ["20:15:00","19:15:00","19:15:00","18:15:00","18:10:00","17:10:00"]},
+                            {"number": ["Chủ Nhật","Thái Bình (TBH)","Kon Tum (KT) Khánh Hòa (KH)","Tiền Giang (TG) Kiên Giang (KG) Lâm Đồng (LD)"]},
+                            {"number": ["Thứ 2","Hanoi (HN)","Hanoi (HN)","Hồ Chí Minh (HCM) Đồng Tháp (DT) Cà Mau (CM)"]},
+                            {"number": ["Thứ 3","Quảng Ninh (QNH)","Quảng Nam (QNM) Đắk Lắk (DLK)","Bến Tre (BTR) Vũng Tàu (VT) Bạc Liêu (BL)"]},
+                            {"number": ["Thứ 4","Bắc Ninh (BN)","Đà Nẵng (DNG) Khánh Hòa (KH)","Đồng Nai (DN) Cần Thơ (CT) Sóc Trăng (ST)"]},
+                            {"number": ["Thứ 5","Hanoi (HN)","Bình Định (BDH) Quảng Bình (QB) Quảng Trị (QT)","Tây Ninh (TN) An Giang (AG) Bình Thuận (BTH)"]},
+                            {"number": ["Thứ 6","Hải Phòng (HP)","Gia Lai (GL) Ninh Thuận (NT)","Vĩnh Long (VL) Bình Dương (BD) Trà Vinh (TV)"]},
+                            {"number": ["Thứ 7","Nam Định (ND)","Đà Nẵng (DNG) Quảng Ngãi (QNI) Đắc Nông (DNO)","Hồ Chí Minh (HCM) Long An (LA) Hậu Giang (HG) Bình Phước (BP)"]}
+                        ]
+                    }
+                ]
+            },
+            "Userment": "使用协议<br /><br />1.用户与本站之间的法律协议，其中规定了客户使用本站拥有的产品/游戏的条款。本协议是双方之间的电子合同。注册帐户并参与本站上的产品，游戏，软件应用程序时，单击“同意”按钮，即表示客户同意，如果客户使用这些条款，客户选择访问或使用该服务，然后单击以在本站上注册一个帐户，这等效于双方已同意该协议的条款。不遵守这些协议可能导致您无权创建帐户,帐户可能被锁定或帐户中的余额将被清除。<br /><br />2.有了这一优势，我们将立即开始为会员提供本站优惠。因此，如果会员在注册本站帐户时接受了这些协议，则即使该会员可以根据“隐形条款”终止其帐户，其后也将无法取消其订阅。在以下禁用帐户：<br />a.如果会员不同意受所有条款的约束，请不要访问或使用本站。<br />b.会员同意使用本站并遵守给定的规定，并且不侵犯使用权，隐私权，不进行骚扰，恐吓，发送群发邮件或故意破坏行为，不要向其他用户发送病毒邮件，垃圾邮件或促销邮件，不要提交虚假或不正确的内容，不可冒充其他用户或其他方式未经本站明确批准的任何其他广告或商业目的。<br />更改使用条款<br /><br />1.本站保留在本站认为适当的任何时候修改，补充或取消使用条款或与服务相关的政策中任何特定条款的权利。<br /><br />2.一旦将内容发布在本站或本站游戏应用程序上，对使用条款或与服务有关的政策的调整，修改，增加或取消将立即生效。<br /><br />3.如果会员的条款和条件发生重大变化，我们将通过本站的电子邮件，电话或短信通知，将此类变化通知会员，在更改生效之前的合理时间内，如果会员不接受通知的使用条款变更，则会员应在变更生效之前关闭其帐户。<br /><br />4.所有其他更改将在更改生效日期或生效之前在条款和条件上发布在网站上。<br /><br />5.会员在修改，取消，添加或替换的生效日期之后继续在本站使用服务，产品和游戏，意味着客户完全接受此类修改。<br /><br />使用承诺<br /><br />1.会员同意、访问本站以及使用条款和条件中的服务，网站，软件，信息和解释将受法律约束并依法进行。<br /><br />2.我们不提供有关税收或法律事务的建议。<br /><br />3.对于某些国家/地区的某些人来说，访问和使用本站服务/产品/应用程序及其他服务可能不合法。本站不鼓励会员参加法律禁止的此类活动。会员有责任理解和遵守适用于他们所居住地区的法律，并且本站不承担任何其他地区在任何法律下的任何责任。<br /><br />4.因使用条款或服务条款引起的与之相关的任何争议，诉讼，主张或诉讼因由，将由美国争端解决中心主管法院管辖，当事各方同意任命一名仲裁员，仲裁地点为当地，仲裁语言为英语。供应商，成员和法院将始终对所有与诉讼程序和当事方信息有关的事项进行保密和保密。<br /><br />5.对于与上述事项有关的会员，服务提供商有权决定由使用条款或与之相关的任何争议或诉讼理由在当地或其他指定的法律诉讼地点提供立即法院服务。<br /><br />6.未满18岁的个人不得使用本站产品，服务和应用程序。会员必须年满18周岁，并且具有完整的法律行为能力才能进行交易，以加入和使用本站服务和产品。如果本站检查并检测到您未满18岁，将按照条款和条件处理该帐户。<br /><br />7.如果您或您所在的国家或地区无法接受本使用条款中包含的任何规则，我们将不提供本站使用服务，游戏，应用程序。法律禁止使用本站上可用的服务，产品和应用程序。<br /><br />8.在您访问的地区，国家使用本站服务，如果您未经授权访问，本站不承担任何由于您不遵守法规而造成的损坏或损失的直接或间接责任。<br /><br />9.我们保留要求会员提供个人信息和数据的权利，以确保会员年龄足以加入本站。如果我们怀疑，或者提供的会员信息不正确或提供的数据不足以验证会员的年龄，则会员的帐户可能会被临时锁定或永久锁定，包括帐户余额将被没收。<br /><br />10.会员需要确认，如果他们不符合我们的要求的验证身份，年龄，该帐户将被临时锁定或永久锁定，并且余额将全部扣除并变为除非指定机构要求上诉，否则从业者无权上诉。<br /><br />11.如果在完整的验证过程中该会员被证明是未成年人，我们保留取消该会员未成年人的所有交易的权利。我们保留关闭会员帐户并没收所有余额的权利。<br /><br />12.如果任何权威机构认为本条款和条件的任何规定不可执行或无效，则相关条款将进行修改以使其适用。在适用法律允许的最大范围内充分执行原始文本的意图，并且这些条款和条件中其余条款的可执行性不会受到影响。<br /><br />13.本条款和条件中任何在任何司法管辖区无效，违法或无法执行的规定在该特定司法管辖区均无效，且不影响影响该规定在其他司法管辖区的有效性，合法性或可执行性。<br /><br />",
+            "GameRespon": "反赌博犯罪<br /><br />本站致力于以积极的方式为我们的客户提供娱乐渠道。为此，我们采取措施保护和确保负责任的赌博。我们鼓励客户参考以下消息来确定赌博的风险：<br /><br />1.您是否曾经忽略过工作或学习赌博？<br /><br />2.您敢打赌摆脱无聊吗？<br /><br />3.当您输光所有金钱时，您是否感到迷失，绝望并需要立即再次下注？<br /><br />4.您有没有下注所有的钱？<br /><br />5.您有没有撒谎掩盖您花在投注上的金钱或时间？<br /><br />6.您是否曾经撒谎或试图进行盗窃以赌钱？<br /><br />7.您是否曾经不愿意将赌注花在其他事情上？<br /><br />8.您是否对家人，朋友或习惯不感兴趣？<br /><br />9.亏了所有钱后，您是否曾经感到过被迫立即退还您的钱？<br /><br />如果以上答案为“是”，那么您的下注可能很不好。我们推荐：<br /><br />1.博彩只应视为娱乐活动<br /><br />2.避免损坏<br /><br />3.进行有限下注<br /><br />4.跟踪和自我管理您在投注上花费的时间和金钱<br /><br />有关赌博的建议和帮助，请访问GamCare，网址为<a href='https://www.gamcare.org.uk' target='_blank'>www.gamcare.org.uk</a>，以获取更多信息。<br /><br />自我排除功能：<br /><br />对于希望将自己排除在投注之外的客户，我们为您提供要求关闭帐户至少6个月至5年的选项。请通过我们主页的“联系我们”部分联系客户支持以获取更多详细信<br /><br />年龄限制：<br /><br />本站保留要求客户提供年龄证明的权利，如果客户未满18岁，则属于非法行为。客户的帐户将被拒绝，直到提供满意的年龄证明为止。每个国家/地区的投注年龄不同，您应该在下注之前先了解一下。<br /><br />本站建议您通过保护您的帐号，用户名和密码信息来保护自己的帐户。<br /><br />父母管理：<br /><br />以下软件将帮助父母控制或阻止互联网访问：<br /><br />Net Nanny-保护儿童避免访问不适当网站的软件：<a href='https://www.netnanny.com' target='_blank'>www.netnanny.com</a><br /><br />CYBERsitter-允许父母阻止他们想要的特定网站的软件：<a href='https://www.cybersitter.com' target='_blank'>www.cybersitter.com</a><br /><br />",
+            "Privacy": "1.本隐私政策描述了本站如何处理您的信息，您提供给我们的数据可能会用于管理产品、游戏参与、整体功能。<br /><br />2.您确认并同意本站采集您的信息，并允许数据使用目的，帐户注册和网站使用，以允许您参与我们的产品和游戏为您提供服务。<br /><br />3.本站只能允许使用您参与产品和游戏，以及进行与您参与游戏和游戏相关的活动的个人信息和数据。<br /><br />4.通过向我们提交您的信息和数据并使用该网站，您同意本站之间的所有披露（包括但不限于资金交易，支付网关）可能负责隐私政策中规定的系统和网站的某些功能和操作。您的个人信息和数据可能会被用于以下目的：<br />（a）与交易相关，包括在线支付和离线（传统）支付<br />（b）投注单交易<br />（c）管理会员帐户并升级会员资料<br />（d）遵守我们的法律责任和服务<br />（e）研究，调查和分析成员<br />（f）提供促销，产品和支持<br />（g）监视会员交易以检查欺诈行为，异常的下注活动，奖金欺诈行为，团体串通和欺诈行为。<br /><br />5.我们的客户支持可以通过电话，电子邮件，短信甚至所有联系渠道与您联系。如果出于安全目的记录来往我们客户支持的呼叫，并询问您从支持团队收到的任何问题。<br /><br />6.联系人信息cookie会传输到您的计算机硬盘驱动器上。我们使用一些cookie来进行网站操作。如果要删除计算机上已经存储的任何cookie，请从浏览器中单击“删除cookie”。<br /><br />7.对我们的隐私政策所做的任何更改都将发布在此页面上，并将立即生效。<br /><br />8.本站可能会在“优胜者”页面上宣布您参加网络促销的奖项。该列表将包括成员“用户名”和中奖金额。<br /><br />",
+            "Concatus": "如果您在存款、提款等方面遇到问题，您可以按以下的优先级与我们取得联系：<br /><br />在线客服：<a href='https://www.baidu.com'>点此联系</a><br /><br />客服QQ：456789  （加QQ时请注明您在平台的用户名，否则将无法通过）"
+        }
+    },
+    "bankList":{
+        "YNNN":"越南农业和农村发展银行",
+        "YNTZ":"越南投资发展银行",
+        "YNSF":"越南社会政策银行",
+        "XGTT":"西贡通天商业银行",
+        "YNGS":"越南工商银行",
+        "YNWM":"越南外贸银行",
+        "YZSY":"亚洲商业银行",
+        "HSYH":"海事银行",
+        "YNXW":"越南兴旺银行",
+        "DYH":"东安银行",
+        "JSYH":"军事银行",
+        "KJSY":"科技商业银行",
+        "LLYN":"留联越南邮政银行",
+        "JLYH":"建龙银行",
+        "GJYH":"国际银行",
+        "XGHN":"西贡-河内银行",
+        "HZMS":"胡志明市发展银行",
+        "DAYH":"东岸银行",
+        "APYH":"安平银行",
+        "JCKYH":"进出口银行",
+        "XGSY":"西贡商业股份制银行",
+        "DNYYH":"东南亚银行",
+        "XGGY":"西贡工业贸易银行",
+        "DZYH":"大众银行",
+        "BKYH":"巴克银行",
+        "JKYH":"建设银行",
+        "YNYH":"越南银行",
+        "HYYH":"海洋银行有限公司",
+        "TFYH":"天丰银行",
+        "NAYH":"南银行",
+        "QQSY":"全球石油银行有限公司（GP银行）",
+        "BVYH":"版越银行",
+        "GJGM":"国家公民银行",
+        "SYYH":"石油银行",
+        "BYYH":"宝越银行",
+        "_binance": "binance",
+        "_gateio": "gateio",
+        "_huobi": "huobi",
+        "_okex": "okex",
+        "_tether": "tether" 
+    }
+}

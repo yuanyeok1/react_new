@@ -1,0 +1,209 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+font,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+dd,
+dl,
+dt,
+li,
+ol,
+ul,
+fieldset,
+form,
+label,
+legend {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  min-height: 100%;
+}
+
+#app:first-child {
+  width: 100%;
+  height: 100%;
+}
+
+#app::-webkit-scrollbar {
+  display: none;
+  visibility: hidden;
+}
+
+img {
+  border: none;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+i,
+em {
+  font-style: normal;
+}
+
+body,
+a,
+input,
+button {
+  font-family: PingFangSC-Regular, sans-serif;
+  outline: none;
+  color: #263440;
+  text-decoration: none;
+  background: none;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  cursor: pointer;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+  text-decoration: none;
+}
+
+table {
+  text-align: center;
+  vertical-align: middle;
+}
+
+th {
+  text-align: center;
+  vertical-align: middle;
+}
+
+svg.sr-only {
+  overflow: hidden;
+  width: 0;
+  height: 0;
+  float: left;
+}
+
+::-webkit-scrollbar{
+  width:10px;
+  height:10px;
+  background: #191A1B;
+  /**/
+}
+::-webkit-scrollbar-track{
+  background: #191A1B;
+  border-radius:2px;
+}
+::-webkit-scrollbar-thumb{
+  background: #333;
+  border-radius:10px;
+}
+::-webkit-scrollbar-thumb:hover{
+  background: #444;
+}
+::-webkit-scrollbar-corner{
+  background: #179a16;
+}
+
+.ant-table-cell-scrollbar {
+  box-shadow: none !important;
+}
+
+.ant-table-header {
+  background: #191A1B;
+}
+
+body {
+  background-color: #191a1b !important;
+}
+.ant-pagination-item {
+  border-top-left-radius: 8px !important;
+  border-bottom-right-radius: 8px !important;
+}
+/* ant 日期插件 start by conrad  */
+/* .ant-picker-panel-container{
+  background:#383a3c !important;
+  border-radius: 10px  !important;
+  border:1px solid #cf2a2a;
+}
+.ant-picker-header{
+  border: 0 !important;
+}
+.ant-picker-panel-container .ant-picker-panel{
+  border:0;
+}
+.ant-picker-cell{
+  color:rgba(250,250,250,.5) !important;
+}
+.ant-picker-super-prev-icon,
+.ant-picker-prev-icon,
+.ant-picker-super-next-icon,
+.ant-picker-next-icon,
+.ant-picker-header-view,
+.ant-picker-content th,
+.ant-picker-cell-in-view{
+  color:#FFFFFF !important;
+}
+.ant-picker-cell-in-view.ant-picker-cell-range-start:not(.ant-picker-cell-range-start-single)::before, 
+.ant-picker-cell-in-view.ant-picker-cell-range-end:not(.ant-picker-cell-range-end-single)::before,
+.ant-picker-cell-in-view.ant-picker-cell-in-range::before{
+  background:#252627 !important;
+}
+
+.ant-picker-cell-disabled::before{
+  background: #ccc !important;
+}
+.ant-picker-cell-disabled .ant-picker-cell-inner{
+  color:rgba(0, 0, 0, 0.5) !important;
+}
+.ant-picker-cell:hover:not(.ant-picker-cell-in-view) .ant-picker-cell-inner, 
+.ant-picker-cell:hover:not(.ant-picker-cell-selected):not(.ant-picker-cell-range-start):not(.ant-picker-cell-range-end):not(.ant-picker-cell-range-hover-start):not(.ant-picker-cell-range-hover-end) .ant-picker-cell-inner{
+  background: rgba(245,245,245,0.5) !important;
+} */
+/* ant 日期插件 end by conrad */

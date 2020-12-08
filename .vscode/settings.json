@@ -1,0 +1,10 @@
+{
+    // VsCode 插件 处理i18n显示的辅助工具
+    "i18n-ally.localesPaths": [
+        "public/locales",
+        "src/i18n"
+    ],
+    "i18n-ally.displayLanguage": "zh",
+    "i18n-ally.annotationInPlace": false,
+    "i18n-ally.keystyle": "nested"
+}

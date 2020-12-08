@@ -1,0 +1,92 @@
+{
+  "name": "mvietnam",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@babel/plugin-proposal-optional-chaining": "^7.12.1",
+    "@babel/preset-env": "^7.12.7",
+    "@babel/preset-react": "^7.12.7",
+    "@craco/craco": "^5.7.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "antd": "^4.7.2",
+    "antd-dayjs-webpack-plugin": "^1.0.1",
+    "axios": "^0.20.0",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "chalk": "^4.1.0",
+    "chokidar": "^3.4.3",
+    "concurrently": "^5.3.0",
+    "craco-less": "^1.17.0",
+    "dayjs": "1.9.3",
+    "emotion": "^11.0.0",
+    "formik": "^2.2.0",
+    "framer-motion": "^2.9.4",
+    "fs-extra": "^9.0.1",
+    "glob": "^7.1.6",
+    "gulp": "^4.0.2",
+    "gulp-html-replace": "^1.6.2",
+    "gulp-svgmin": "^3.0.0",
+    "http-proxy-middleware": "^1.0.6",
+    "i18next": "^19.8.2",
+    "i18next-browser-languagedetector": "^6.0.1",
+    "i18next-http-backend": "^1.0.21",
+    "lodash": "^4.17.20",
+    "md5": "^2.3.0",
+    "merge-options": "^3.0.3",
+    "merge-stream": "^2.0.0",
+    "mobx": "^6.0.1",
+    "mobx-react-lite": "^3.0.1",
+    "qs": "^6.9.4",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-i18next": "^11.7.3",
+    "react-loadable": "^5.5.0",
+    "react-qr-code": "^1.0.3",
+    "react-query": "^2.25.2",
+    "react-query-devtools": "^2.6.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.4",
+    "react-spinners": "^0.9.0",
+    "react-use-websocket": "^2.2.0",
+    "shx": "^0.3.2",
+    "styled-components": "^5.2.0",
+    "svg-mixer": "^2.3.14",
+    "swiper": "^6.3.4",
+    "terser-webpack-plugin": "4.2.3",
+    "through2": "^4.0.2",
+    "use-debounce": "^5.0.1",
+    "use-onclickoutside": "^0.3.1",
+    "use-state-with-callback": "^2.0.3",
+    "vinyl": "^2.2.1",
+    "webpack-bundle-analyzer": "^3.9.0"
+  },
+  "scripts": {
+    "start": "concurrently \"craco start\"  \"node monitors/webp-monitor\" \"node monitors/svg-monitor\" ",
+    "build": "shx rm -rf winlott_build && node monitors/buildsvg/svg-mixer && craco build && shx mv build winlott_build",
+    "svg": "node monitors/buildsvg/svg-mixer",
+    "test": "craco test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "resolutions": {
+    "styled-components": "^5"
+  },
+  "devDependencies": {
+    "react-spring": "^8.0.27"
+  }
+}
